@@ -1,0 +1,1007 @@
+Brand,Type,Color,Material,Price (USD)
+Nike,Basketball,Red/Black,Leather,170
+Adidas,Running,Black,Primeknit,180
+Reebok,Casual,White,Leather,75
+Converse,Casual,Navy,Canvas,55
+Puma,Lifestyle,Pink,Mesh,80
+Vans,Skate,Black/White,Suede/Canvas,65
+New Balance,Running,Grey,Suede/Mesh,175
+Asics,Running,Blue,Mesh,160
+Fila,Fashion,White,Leather/Synthetic,65
+Skechers,Running,Black,Mesh,110
+Nike,Running,Pink,Mesh,150
+Adidas,Casual,White/Green,Leather,80
+Reebok,Casual,Pink,Leather,70
+Converse,Skate,Black,Suede,75
+Puma,Lifestyle,Yellow,Leather/Synthetic,110
+Vans,Skate,White,Canvas,50
+New Balance,Running,Blue,Mesh,150
+Asics,Running,Purple,Mesh,150
+Fila,Fashion,Black,Synthetic,70
+Skechers,Walking,Grey,Mesh,70
+Nike,Casual,White,Leather,90
+Adidas,Running,Black/Pink,Primeknit,140
+Reebok,Running,White,Mesh,120
+Converse,Casual,Navy,Canvas,65
+Puma,Running,Black,Mesh,80
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Lifestyle,Blue/Orange,Suede/Mesh,90
+Asics,Running,Grey,Mesh/Synthetic,120
+Fila,Fashion,White,Leather/Synthetic,75
+Skechers,Walking,Black,Synthetic,65
+Nike,Running,Grey,Mesh,150
+Adidas,Running,Blue,Mesh,170
+Reebok,Cross-training,Black,Mesh/Synthetic,130
+Converse,Casual,Pink,Canvas,85
+Puma,Lifestyle,Black/Red,Synthetic,90
+Vans,Skate,Checkered,Canvas,50
+New Balance,Casual,Black/Grey,Suede/Textile,80
+Asics,Running,Purple,Mesh/Synthetic,160
+Fila,Fashion,White/Red,Leather/Synthetic,65
+Skechers,Walking,Black,Mesh,60
+Nike,Casual,White,Leather,90
+Adidas,Running,Black,Knit,140
+Reebok,Running,White,Mesh,120
+Converse,Casual,White,Canvas,65
+Puma,Casual,Beige,Suede,65
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Casual,Orange,Suede/Mesh,100
+Asics,Running,White,Mesh,160
+Fila,Casual,White/Navy,Leather,70
+Skechers,Walking,Black,Mesh,60
+Nike,Running,Grey,Mesh,100
+Adidas,Slides,Black,Synthetic,35
+Reebok,Crossfit,Black,Mesh,130
+Converse,Casual,Pink,Canvas,85
+Puma,Basketball,Black/Red,Leather,130
+Vans,Skate,White,Canvas,55
+New Balance,Running,Black/Grey,Mesh,165
+Asics,Running,Blue,Mesh,120
+Fila,Casual,White/Blue,Leather/Synthetic,75
+Skechers,Training,Black,Mesh,50
+Nike,Basketball,White,Leather,90
+Adidas,Lifestyle,Pink,Primeknit,130
+Reebok,Training,Black,Knit,130
+Converse,Casual,Yellow,Canvas,85
+Puma,Basketball,Red,Leather,130
+Vans,Skate,Black,Suede,70
+New Balance,Running,Green,Mesh,150
+Asics,Running,Blue,Mesh,170
+Fila,Casual,White,Leather,65
+Skechers,Running,Black,Mesh,90
+Nike,Lifestyle,Grey,Leather,120
+Adidas,Lifestyle,Black,Primeknit,220
+Reebok,Casual,Pink,Nylon,65
+Converse,Casual,White,Canvas,65
+Puma,Running,Grey,Mesh,120
+Vans,Skate,Red,Canvas,50
+New Balance,Running,Pink,Mesh,100
+Asics,Running,Black,Mesh,120
+Fila,Casual,White,Leather,60
+Skechers,Walking,Navy,Mesh,65
+Nike,Lifestyle,White,Leather,85
+Nike,Basketball,White,Leather,90
+Adidas,Lifestyle,Black,Primeknit,140
+Reebok,Training,Grey,Flexweave,130
+Converse,Casual,White,Canvas,65
+Puma,Basketball,Red/White,Leather,120
+Vans,Skate,Black,Suede/Canvas,70
+New Balance,Casual,Navy,Suede/Mesh,80
+Asics,Casual,Pink,Mesh,100
+Fila,Fashion,White,Leather/Synthetic,75
+Skechers,Running,Black,Mesh,75
+Nike,Running,Blue,Flyknit,160
+Adidas,Basketball,Grey,Synthetic,80
+Reebok,Casual,Black,Nylon,65
+Converse,Casual,Yellow,Canvas,85
+Puma,Running,Black/Yellow,Mesh,80
+Vans,Skate,Green,Canvas,55
+New Balance,Running,Purple,Mesh,100
+Asics,Running,Black,Mesh,170
+Fila,Fashion,White/Pink,Leather,65
+Skechers,Walking,Grey,Mesh,60
+Nike,Running,White,Mesh,200
+Nike,Running,Grey,Mesh,160
+Adidas,Casual,Black/White,Leather,80
+Reebok,Running,Blue,Mesh,120
+Converse,Casual,White,Canvas,85
+Puma,Lifestyle,White,Leather,90
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Running,Grey,Suede/Mesh,175
+Asics,Trail,Blue,Mesh,70
+Fila,Fashion,White,Synthetic,75
+Skechers,Running,Black,Mesh,60
+Nike,Running,Black,Mesh,120
+Adidas,Running,Grey,Primeknit,180
+Reebok,Casual,White,Leather,80
+Converse,Casual,Navy,Canvas,65
+Puma,Lifestyle,Black/Red,Synthetic,110
+Vans,Skate,Black/White,Canvas,50
+New Balance,Running,Red,Mesh,80
+Asics,Running,Black,Mesh,120
+Fila,Fashion,White,Leather,60
+Skechers,Walking,Navy,Mesh,80
+Nike,Basketball,White,Leather,90
+Adidas,Running,Pink,Primeknit,140
+Reebok,Training,Black/White,Mesh,130
+Converse,Casual,White,Canvas,65
+Puma,Running,Black/Grey,Mesh/Synthetic,90
+Vans,Skate,Black/White,Canvas,65
+New Balance,Running,Blue/White,Mesh,130
+Asics,Running,White/Grey,Mesh/Leather,180
+Fila,Fashion,White/Navy,Leather/Synthetic,65
+Skechers,Walking,Black,Mesh,60
+Nike,Running,Black,Mesh/Synthetic,180
+Adidas,Running,Grey,Primeknit,180
+Reebok,Casual,Black,Nylon,60
+Converse,Casual,Cream,Canvas,110
+Puma,Casual,Red/White,Suede,65
+Vans,Skate,Green,Canvas,50
+New Balance,Running,Black/Grey,Mesh/Synthetic,165
+Asics,Running,Pink,Mesh/Synthetic,90
+Fila,Casual,White/Navy/Red,Leather,60
+Skechers,Running,Black/White,Mesh,55
+Nike,Casual,White,Leather,90
+Adidas,Running,Pink,Primeknit,130
+Reebok,Running,Blue,Mesh,120
+Converse,Casual,Black,Canvas,85
+Puma,Basketball,White,Leather,130
+Vans,Skate,Black/White,Suede/Canvas,65
+New Balance,Casual,Grey,Suede/Mesh,80
+Asics,Running,Black,Mesh,70
+Fila,Fashion,Grey,Leather/Synthetic,75
+Skechers,Running,Pink,Mesh,90
+Nike,Casual,White,Leather,100
+Adidas,Casual,Black/White,Leather,85
+Reebok,Running,Black,Mesh,70
+Converse,Casual,White,Canvas,65
+Puma,Running,Black/Yellow,Mesh,140
+Vans,Skate,Checkered,Canvas,50
+New Balance,Running,Blue,Mesh,120
+Asics,Trail,Grey,Mesh,70
+Fila,Fashion,White,Leather,70
+Skechers,Training,Black,Mesh,65
+Nike,Basketball,Blue,Mesh,150
+Nike,Running,Black/White,Flyknit,160
+Adidas,Lifestyle,Grey,Primeknit,140
+Reebok,Casual,Yellow/Black,Leather/Synthetic,90
+Converse,Casual,Navy/White,Canvas,70
+Puma,Running,Black,Mesh,100
+Vans,Skate,Black/White,Suede/Canvas,65
+New Balance,Casual,Green,Suede/Leather,90
+Asics,Running,Blue,Mesh,120
+Fila,Fashion,White/Grey,Leather,85
+Skechers,Running,Grey/Pink,Mesh,105
+Nike,Casual,Green,Leather,100
+Adidas,Running,Black/White,Primeknit,180
+Reebok,Casual,Blue/White,Nylon,60
+Converse,Casual,White/Green,Leather,75
+Puma,Basketball,Black,Leather/Synthetic,130
+Vans,Skate,Black/White,Canvas,65
+New Balance,Running,Black/Grey,Mesh,165
+Asics,Running,Grey/Green,Mesh,180
+Fila,Basketball,White,Leather,75
+Skechers,Casual,Black/White,Synthetic,70
+Nike,Basketball,White,Leather,100
+Adidas,Lifestyle,Grey,Primeknit,140
+Reebok,Training,Black,Knit,130
+Converse,Casual,Navy,Canvas,65
+Puma,Running,Black,Mesh,80
+Vans,Skate,Black/White,Canvas/Suede,70
+New Balance,Lifestyle,Beige,Suede/Mesh,100
+Asics,Running,Pink,Mesh,75
+Fila,Walking,White,Synthetic,60
+Skechers,Running,Black,Mesh,70
+Nike,Running,Black/White,Flyknit,150
+Adidas,Running,Blue,Primeknit,180
+Reebok,Running,Grey,Mesh,100
+Converse,Casual,Pink,Canvas,85
+Puma,Basketball,White,Leather,130
+Vans,Skate,Black,Canvas,50
+New Balance,Running,Blue,Mesh,120
+Asics,Running,Black,Mesh,160
+Fila,Fashion,Black,Leather,75
+Skechers,Walking,Grey,Mesh,60
+Nike,Casual,White/Red/Navy,Leather,100
+Adidas,Casual,White/Black,Leather,80
+Reebok,Running,White/Black,Mesh,120
+Converse,Casual,White/Navy,Canvas,70
+Puma,Casual,Pink,Suede,65
+Vans,Skate,Black/White,Canvas,70
+New Balance,Running,Grey/Purple,Mesh,165
+Asics,Running,Black/Green,Mesh,160
+Fila,Fashion,Cream,Synthetic,75
+Skechers,Walking,White/Black,Leather,70
+Nike,Casual,White/Red,Leather,90
+Adidas,Casual,Black/White,Primeknit,130
+Reebok,Casual,White/Black,Leather,75
+Converse,Casual,Cream,Canvas,85
+Puma,Running,Black/Blue,Mesh,120
+Vans,Skate,Pink/White,Canvas,50
+New Balance,Running,Blue/Green,Mesh,100
+Asics,Running,Pink/White,Mesh,120
+Fila,Fashion,White/Black,Synthetic,75
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Pink,Primeknit,140
+Reebok,Training,Grey,Knit,130
+Converse,Casual,Black,Canvas,60
+Puma,Running,Blue,Mesh,90
+Vans,Skate,Red/White,Canvas,70
+New Balance,Lifestyle,Green,Suede/Mesh,100
+Asics,Running,Grey,Mesh,120
+Fila,Fashion,White,Leather,70
+Skechers,Walking,Black,Mesh,75
+Nike,Running,Black,Flyknit,160
+Adidas,Slides,Black,Synthetic,35
+Reebok,Casual,Grey,Nylon,65
+Converse,Casual,Cream,Canvas,85
+Puma,Lifestyle,Black/Yellow,Synthetic,110
+Vans,Skate,Pink,Canvas,55
+New Balance,Running,Grey,Suede/Mesh,175
+Asics,Running,Blue,Mesh,120
+Fila,Fashion,White,Leather,65
+Skechers,Training,Black,Knit,70
+Nike,Running,Blue,Mesh,120
+Nike,Basketball,White,Leather,90
+Adidas,Fashion,Zebra,Primeknit,220
+Reebok,Training,Khaki,Textile/Leather,130
+Converse,Casual,Pink,Canvas,65
+Puma,Basketball,Black/White,Leather/Suede,130
+Vans,Skate,Checkerboard,Canvas,70
+New Balance,Trail,Grey/Yellow,Synthetic/Mesh,135
+Asics,Running,Pink,Mesh,120
+Fila,Fashion,Black,Leather,65
+Skechers,Walking,Navy,Mesh,65
+Nike,Running,Blue,Mesh,120
+Adidas,Casual,Pink,Primeknit,130
+Reebok,Running,Black,Mesh,100
+Converse,Casual,Green,Canvas,85
+Puma,Running,White,Mesh,90
+Vans,Skate,Black,Canvas,50
+New Balance,Running,Orange,Mesh,130
+Asics,Running,Grey,Mesh,120
+Fila,Fashion,White,Leather/Synthetic,65
+Skechers,Running,Black,Mesh,60
+Nike,Basketball,White,Leather,90
+Adidas,Running,Pink,Knit,140
+Reebok,Trail,Black,Mesh/Synthetic,110
+Converse,Casual,Blue,Canvas,65
+Puma,Running,Grey,Mesh,90
+Vans,Skate,Black/White,Canvas/Leather,70
+New Balance,Running,White/Pink,Mesh,110
+Asics,Running,Grey,Mesh,85
+Fila,Fashion,White/Pink,Leather/Synthetic,65
+Skechers,Running,Black,Mesh,85
+Nike,Running,Black,Mesh/Synthetic,150
+Adidas,Casual,White/Black,Leather,85
+Reebok,Training,Blue,Synthetic,130
+Converse,Casual,White/Green,Leather,80
+Puma,Lifestyle,Pink,Mesh,110
+Vans,Casual,Black/White,Canvas,50
+New Balance,Running,Black/Grey,Mesh,165
+Asics,Running,Blue,Mesh,90
+Fila,Casual,White,Leather,65
+Skechers,Walking,Black,Mesh,60
+Nike,Casual,Green,Leather,100
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Black/Pink,Knit,140
+Reebok,Crossfit,Black,Mesh,130
+Converse,Casual,Ivory,Canvas,85
+Puma,Running,Grey,Mesh,130
+Vans,Skate,Black/White,Canvas,70
+New Balance,Casual,Pink,Suede,80
+Asics,Running,Black,Mesh,120
+Fila,Fashion,White,Leather/Synthetic,65
+Skechers,Running,Black,Mesh,90
+Nike,Running,Blue,Knit,130
+Adidas,Running,Black,Mesh,120
+Reebok,Running,Blue,Mesh,120
+Converse,Casual,White,Canvas,110
+Puma,Casual,White/Green,Leather,80
+Vans,Skate,Black,Canvas,55
+New Balance,Running,Grey,Suede/Mesh,175
+Asics,Running,Black,Mesh,160
+Fila,Fashion,White,Leather,70
+Skechers,Walking,White,Leather,65
+Nike,Running,Grey,Synthetic,150
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Pink/White,Primeknit,130
+Reebok,Running,Black,Mesh,120
+Converse,Casual,Cream,Canvas,85
+Puma,Running,Black,Mesh,90
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Lifestyle,White/Green,Suede/Mesh,90
+Asics,Running,Blue,Mesh,90
+Fila,Fashion,White/Navy,Leather/Synthetic,65
+Skechers,Walking,Grey,Mesh,65
+Nike,Running,Black,Flyknit,160
+Adidas,Casual,White/Black,Leather,85
+Reebok,Crossfit,Grey,Mesh,130
+Converse,Casual,White,Canvas,100
+Puma,Lifestyle,White,Leather/Synthetic,120
+Vans,Skate,Black/White,Canvas,50
+New Balance,Running,Blue/Orange,Mesh,100
+Asics,Running,White/Black,Mesh,180
+Fila,Fashion,White/Navy/Red,Synthetic,60
+Skechers,Walking,Black/Pink,Mesh,60
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Pink,Primeknit,140
+Reebok,Running,Black,Mesh,120
+Converse,Casual,Grey,Canvas,85
+Puma,Basketball,White,Leather,130
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Running,Grey,Suede/Mesh,175
+Asics,Running,Black,Mesh,150
+Fila,Casual,White/Navy,Leather,60
+Skechers,Running,Grey,Mesh,90
+Nike,Casual,Red,Leather,100
+Adidas,Casual,White/Black,Leather,80
+Reebok,Casual,Black/White,Nylon/Suede,65
+Converse,Basketball,Black,Canvas,120
+Puma,Running,Blue,Mesh,120
+Vans,Skate,Red,Canvas,50
+New Balance,Running,Grey,Mesh,165
+Asics,Running,Black,Mesh,120
+Fila,Casual,White,Leather,70
+Skechers,Walking,Navy,Mesh,65
+Nike,Running,Purple,Flyknit,160
+Nike,Basketball,White,Leather,90
+Adidas,Fashion,Cream,Primeknit,220
+Reebok,Running,Black,Mesh,120
+Converse,Casual,Egret,Canvas,85
+Puma,Running,Black,Mesh,80
+Vans,Skate,Black/White,Canvas,70
+New Balance,Running,Blue,Mesh,130
+Asics,Running,Black,Mesh,80
+Fila,Fashion,White/Navy,Leather/Synthetic,65
+Skechers,Walking,Black/White,Synthetic,65
+Nike,Running,Black,Flyknit,160
+Adidas,Casual,Pink,Primeknit,130
+Reebok,Casual,Green,Leather,80
+Converse,Casual,White,Canvas,65
+Puma,Basketball,Black,Leather,130
+Vans,Casual,Black,Canvas,50
+New Balance,Trail Running,Grey/Orange,Synthetic/Mesh,135
+Asics,Running,Black/Pink,Mesh,120
+Fila,Fashion,White,Synthetic,65
+Skechers,Walking,Navy/White,Mesh,60
+Nike,Running,Grey/Pink,Mesh,160
+Adidas,Running,White,Primeknit,180
+Reebok,Training,Black,Flexweave/Knit,130
+Converse,Casual,White,Canvas,75
+Puma,Running,Grey/Black,Mesh,90
+Vans,Skate,Black/White,Canvas/Suede,65
+New Balance,Lifestyle,Blue/Orange,Suede/Nylon,90
+Asics,Running,Pink,Mesh,120
+Fila,Fashion,Green/Orange,Leather/Synthetic,80
+Skechers,Walking,Black,Mesh,55
+Nike,Casual,White/Black,Leather,100
+Adidas,Lifestyle,Pink/White,Primeknit,130
+Reebok,Weightlifting,Black/Gold,Leather,200
+Converse,Casual,Pink,Canvas,110
+Puma,Lifestyle,Black/White,Suede/Leather,90
+Vans,Casual,Black/White Checkerboard,Canvas,50
+New Balance,Running,Black/Green,Mesh,150
+Asics,Running,Black/White,Mesh,150
+Fila,Fashion,White/Navy,Leather/Synthetic,75
+Nike,Running,White,Leather,120
+Adidas,Lifestyle,Black/Pink,Primeknit,130
+Reebok,Crossfit,Grey,Mesh,130
+Converse,Basketball,Purple,Canvas,110
+Puma,Casual,Black,Suede,65
+Vans,Skate,Yellow,Suede,65
+New Balance,Casual,Grey,Suede/Mesh,80
+Asics,Running,Black,Mesh,150
+Fila,Fashion,White,Leather,65
+Skechers,Running,Pink,Mesh,60
+Nike,Casual,Grey,Leather,90
+Adidas,Lifestyle,Cream,Primeknit,220
+Reebok,Weightlifting,Black,Leather,200
+Converse,Casual,White/Green,Leather,85
+Puma,Lifestyle,Red,Synthetic,110
+Vans,Skate,Black/White,Canvas,50
+New Balance,Running,Red,Mesh,100
+Asics,Running,White/Pink,Mesh,160
+Fila,Fashion,White/Navy,Synthetic,60
+Skechers,Walking,Black,Mesh,70
+Nike,Basketball,White,Leather,100
+Adidas,Running,Grey,Primeknit,140
+Reebok,Casual,Pink/White,Suede/Mesh,100
+Converse,Casual,Black,Leather,65
+Puma,Running,Blue,Mesh,90
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Running,Red,Mesh,130
+Asics,Running,Purple,Mesh,120
+Fila,Fashion,White/Blue,Leather/Synthetic,75
+Skechers,Walking,Black/Pink,Mesh,60
+Nike,Running,Black,Leather/Synthetic,170
+Adidas,Casual,White/Pink,Mesh/Synthetic,150
+Reebok,Casual,White/Green,Leather,80
+Converse,Casual,Red,Canvas,85
+Puma,Lifestyle,Black/White,Leather,80
+Vans,Skate,Black/White,Canvas,50
+New Balance,Running,Grey,Mesh,165
+Asics,Running,Blue,Mesh,120
+Fila,Fashion,White,Leather,60
+Nike,Basketball,White,Leather,90
+Adidas,Running,Pink,Primeknit,140
+Reebok,Running,Black,Mesh,120
+Converse,Casual,White,Canvas,65
+Puma,Basketball,Black,Leather,130
+Vans,Skate,Black/White,Canvas/Suede,70
+New Balance,Running,Blue,Mesh,165
+Asics,Running,Black,Mesh,120
+Fila,Fashion,Grey,Synthetic,70
+Skechers,Lifestyle,White,Leather/Synthetic,65
+Nike,Running,Grey,Synthetic,170
+Adidas,Casual,White/Black,Leather,80
+Reebok,Casual,White/Blue,Synthetic,90
+Converse,Casual,Black,Canvas,65
+Puma,Basketball,White,Leather,80
+Vans,Skate,Red,Canvas,55
+New Balance,Running,Black,Mesh,130
+Asics,Running,Black/Pink,Mesh,80
+Fila,Casual,White/Red,Leather,65
+Skechers,Training,Grey,Knit,65
+Nike,Running,Blue,Flyknit,160
+Nike,Casual,White/Black,Leather,90
+Adidas,Fashion,Cream White,Primeknit/Synthetic,220
+Reebok,Training,Black,Mesh/Synthetic,130
+Converse,Casual,White,Canvas,65
+Puma,Running,Grey,Mesh/Synthetic,100
+Vans,Skate,Purple,Canvas/Suede,70
+New Balance,Running,Black/White,Mesh/Synthetic,130
+Asics,Running,Pink,Mesh/Synthetic,170
+Fila,Fashion,Red/White,Synthetic/Leather,75
+Skechers,Running,Navy,Mesh/Synthetic,110
+Nike,Running,Black/White,Leather/Mesh,120
+Adidas,Fashion,Grey,Knit/Synthetic,140
+Reebok,Training,Grey/Black,Mesh/Synthetic,130
+Converse,Casual,Navy,Canvas,55
+Puma,Lifestyle,Yellow,Synthetic/Textile,80
+Vans,Skate,Black/White,Canvas,50
+New Balance,Running,White/Grey,Mesh,120
+Asics,Running,Black,Mesh/Synthetic,160
+Fila,Fashion,Pink,Synthetic/Leather,65
+Nike,Casual,White,Leather,90
+Adidas,Fashion,Cream,Primeknit,220
+Reebok,CrossFit,Black/White,Mesh,130
+Converse,Casual,Red,Canvas,60
+Puma,Running,Grey,Mesh,100
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Casual,Green/White,Suede/Nylon,90
+Asics,Running,Black,Mesh,120
+Fila,Fashion,Pink,Leather,75
+Skechers,Walking,Grey,Mesh,90
+Nike,Running,Blue,Flyknit,160
+Adidas,Running,White,Primeknit,180
+Reebok,Casual,Purple,Synthetic,90
+Converse,Casual,White,Canvas,70
+Puma,Fashion,Pink,Leather/Synthetic,110
+Vans,Skate,Checkerboard Black/White,Canvas,50
+New Balance,Running,Grey/Green,Mesh,130
+Asics,Running,Black,Mesh,160
+Fila,Fashion,White/Black,Leather/Synthetic,70
+Skechers,Walking,Black,Mesh,65
+Nike,Running,Green,Mesh,150
+Nike,Running,Blue/Black,Mesh,160
+Adidas,Lifestyle,Grey,Primeknit,130
+Reebok,Training,Black,Flexweave,130
+Converse,Basketball,White,Leather,100
+Puma,Basketball,Red/Black,Leather,110
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Casual,Green,Suede/Mesh,90
+Asics,Running,Pink,Mesh/Synthetic,160
+Fila,Fashion,White/Red,Leather,75
+Skechers,Walking,Black,Leather/Synthetic,60
+Nike,Casual,White/Black,Leather,100
+Adidas,Casual,White/Black,Leather,80
+Reebok,Casual,Black,Nylon/Suede,60
+Converse,Casual,Egret,Canvas,85
+Puma,Basketball,White,Leather,90
+Vans,Skate,Red,Canvas,55
+New Balance,Running,Purple,Mesh,130
+Asics,Running,Grey,Mesh,120
+Fila,Hiking,Beige,Leather/Synthetic,85
+Skechers,Training,Black,Mesh,60
+Nike,Basketball,White,Leather,90
+Adidas,Lifestyle,Cream,Primeknit,220
+Reebok,Running,Pink,Mesh,120
+Converse,Casual,Black,Canvas,85
+Puma,Basketball,Black,Leather,130
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Casual,Grey,Suede/Mesh,80
+Asics,Running,Grey,Mesh,170
+Fila,Fashion,White/Red,Leather,75
+Skechers,Walking,Grey,Mesh,60
+Nike,Running,Black/White,Flyknit,160
+Adidas,Running,White,Primeknit,180
+Reebok,Training,Blue,Mesh,130
+Converse,Casual,White,Canvas,65
+Puma,Running,Grey,Mesh,120
+Vans,Skate,Black/White,Canvas,50
+New Balance,Running,Pink,Mesh,110
+Asics,Running,Black,Mesh,160
+Fila,Casual,White,Leather,60
+Skechers,Running,Black,Mesh,55
+Nike,Running,Blue,Mesh,160
+Nike,Basketball,White/Black,Leather,100
+Adidas,Lifestyle,Cloud White,Primeknit,220
+Reebok,CrossFit,Black/White,Knit/Synthetic,130
+Converse,Casual,Pink,Canvas,65
+Puma,Running,Grey/White,Mesh/Synthetic,120
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Casual,Navy/Red,Suede/Mesh,85
+Asics,Running,Black/Gold,Mesh/Synthetic,90
+Fila,Casual,White/Navy/Red,Leather,70
+Skechers,Walking,Grey/Pink,Knit,70
+Nike,Running,Blue,Mesh/Synthetic,120
+Adidas,Lifestyle,Black/Pink,Knit,140
+Reebok,Running,White/Black,Knit/Synthetic,100
+Converse,Skate,Black,Canvas,85
+Puma,Basketball,Black/Yellow,Leather/Synthetic,130
+Vans,Skate,Multi-color,Canvas,55
+New Balance,Running,Grey,Mesh,130
+Asics,Running,Black,Mesh,160
+Fila,Running,Black/White,Mesh/Synthetic,65
+Nike,Running,Blue/Green,Mesh,160
+Adidas,Lifestyle,White/Black,Primeknit,140
+Reebok,CrossFit,Black,Synthetic/Textile,130
+Converse,Casual,White,Canvas,65
+Puma,Running,Black/White,Mesh,120
+Vans,Skate,Pink,Canvas,50
+New Balance,Casual,Grey/Green,Suede/Mesh,100
+Asics,Running,Pink/Black,Mesh/Synthetic,120
+Fila,Fashion,White/Red,Leather/Synthetic,70
+Skechers,Running,Grey/Pink,Mesh,90
+Nike,Running,Black/White,Mesh,250
+Adidas,Fashion,Cream White,Primeknit,220
+Reebok,Casual,Black/White,Suede/Textile,90
+Converse,Casual,Sunflower,Canvas,85
+Puma,Lifestyle,Blue/Red,Synthetic/Mesh,80
+Vans,Skate,Yellow,Canvas/Suede,65
+New Balance,Running,Black/White,Mesh,165
+Asics,Running,White/Pink,Mesh,160
+Fila,Fashion,White/Red/Navy,Leather/Synthetic,65
+Nike,Basketball,White,Leather,90
+Adidas,Lifestyle,Pink,Primeknit,130
+Reebok,Training,Grey,Flexweave,130
+Converse,Casual,White,Canvas,65
+Puma,Basketball,Black/White,Leather/Synthetic,130
+Vans,Skate,Pink,Suede/Canvas,65
+New Balance,Lifestyle,Green,Suede/Mesh,90
+Asics,Lifestyle,Black/Grey,Leather/Suede,110
+Fila,Fashion,White,Leather,60
+Skechers,Running,Black,Mesh,100
+Nike,Running,Blue,Mesh,120
+Adidas,Basketball,Grey,Textile,130
+Reebok,Running,Orange,Synthetic/Mesh,120
+Converse,Casual,Black,Canvas,85
+Puma,Lifestyle,Silver/White,Mesh/Synthetic,120
+Vans,Skate,Red,Canvas,50
+New Balance,Running,Black,Mesh/Synthetic,165
+Asics,Running,Black/Red,Mesh/Synthetic,170
+Fila,Fashion,Pink,Synthetic,75
+Skechers,Walking,White,Synthetic/Leather,65
+Nike,Skate,Black/White,Leather,100
+Adidas,Running,Grey,Primeknit,180
+Reebok,Casual,Navy,Nylon,65
+Converse,Casual,Pink,Canvas,85
+Puma,Running,Black,Mesh,90
+Vans,Skate,Red,Canvas/Suede,70
+New Balance,Running,Black,Mesh,160
+Asics,Running,Blue,Mesh,120
+Fila,Fashion,White,Leather,70
+Skechers,Walking,Grey,Mesh,70
+Nike,Running,Green,Mesh,150
+Adidas,Slides,Pink,Synthetic,25
+Reebok,Training,Red,Mesh,130
+Converse,Casual,White,Canvas,75
+Puma,Casual,Black,Suede,65
+Vans,Skate,Checkerboard Black/White,Canvas,50
+New Balance,Running,Green,Mesh,130
+Asics,Trail,Grey,Mesh,75
+Fila,Fashion,Black,Synthetic,65
+Skechers,Running,Navy,Mesh,85
+Nike,Running,Blue,Flyknit,160
+Nike,Casual,White,Leather,90
+Adidas,Fashion,Cream White,Primeknit,220
+Reebok,Training,Black/Gum,Flexweave/Cushioning,130
+Converse,Casual,Egret/Black,Canvas,65
+Puma,Running,Grey,Mesh,100
+Vans,Skate,Black/White,Canvas/Suede,70
+New Balance,Casual,Black/Grey,Suede/Mesh,90
+Asics,Running,Pink,Mesh,120
+Fila,Fashion,White/Navy/Red,Synthetic/Leather,75
+Skechers,Walking,Black,Mesh,60
+Nike,Casual,Black,Leather,85
+Adidas,Running,Grey,Primeknit,180
+Reebok,Casual,White/Black,Synthetic,90
+Converse,Basketball,White,Leather,75
+Puma,Casual,Black/White,Suede,65
+Vans,Skate,True White,Canvas,50
+New Balance,Racing,Orange,Mesh,110
+Asics,Running,Grey,Mesh,160
+Fila,Casual,Black,Leather,60
+Skechers,Running,Grey/Pink,Mesh,60
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Grey/Pink,Primeknit,140
+Reebok,Training,Black,Knit,130
+Converse,Casual,Pink,Canvas,85
+Puma,Fashion,White/Black,Leather,80
+Vans,Skate,Blue/White,Suede/Canvas,70
+New Balance,Running,Pink/White,Mesh,165
+Asics,Running,Black,Mesh,120
+Fila,Hiking,Green,Suede/Leather,70
+Skechers,Running,Black,Mesh,70
+Nike,Running,Blue/Pink,Mesh,120
+Adidas,Casual,White/Black,Leather,80
+Reebok,Casual,Purple,Nylon,65
+Converse,Casual,White,Canvas,70
+Puma,Casual,Black,Suede,65
+Vans,Skate,Black/White,Canvas,55
+New Balance,Casual,Grey/White,Suede/Mesh,80
+Asics,Running,Blue,Mesh,70
+Fila,Running,Black/Pink,Synthetic/Mesh,70
+Skechers,Training,Grey/Orange,Knit,70
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Cream White,Primeknit,220
+Reebok,Retro,Black/Gold/Red,Suede/Mesh,90
+Converse,Casual,Navy,Canvas,65
+Puma,Running,Grey/White,Mesh,80
+Vans,Skate,Black/White,Canvas,55
+New Balance,Retro,Grey/Orange,Suede/Mesh,100
+Asics,Running,Blue/Pink,Mesh,160
+Fila,Fashion,Black,Leather/Synthetic,65
+Skechers,Running,Black/Pink,Mesh,90
+Nike,Running,Black,Mesh/Synthetic,160
+Adidas,Lifestyle,Black/Grey,Primeknit,130
+Reebok,Casual,White/Grey,Leather,65
+Converse,Skate,White,Canvas,85
+Puma,Retro,Red,Suede,80
+Vans,Skate,Pink/White,Canvas,65
+New Balance,Running,Grey,Mesh,150
+Asics,Running,Black/White,Mesh,140
+Fila,Casual,White/Navy/Red,Leather,60
+Skechers,Walking,Black/Grey,Mesh,60
+Nike,Basketball,White,Leather,90
+Adidas,Lifestyle,Natural,Primeknit,220
+Reebok,Weightlifting,Black,Synthetic,150
+Converse,Casual,White,Canvas,75
+Puma,Running,Grey,Mesh,100
+Vans,Skate,Checkered,Canvas,50
+New Balance,Casual,Navy/Red,Suede/Nylon,100
+Asics,Running,Pink,Mesh,150
+Fila,Fashion,White/Navy,Synthetic,75
+Skechers,Running,Black/Pink,Mesh,65
+Nike,Running,Black,Mesh,160
+Adidas,Running,Grey,Primeknit,180
+Reebok,Crossfit,Grey/Black,Mesh,130
+Converse,Skate,White,Leather,75
+Puma,Basketball,White/Black,Leather,130
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Casual,Burgundy,Suede/Leather,80
+Asics,Running,Black/Red,Mesh,120
+Fila,Casual,White/Navy,Leather,65
+Skechers,Walking,Charcoal,Mesh,65
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Grey,Primeknit,220
+Reebok,Crossfit,Black,Mesh,130
+Converse,Casual,Red,Canvas,55
+Puma,Basketball,Black,Mesh,120
+Vans,Skate,Red,Suede,65
+New Balance,Lifestyle,Green,Suede/Mesh,90
+Asics,Running,White,Mesh,180
+Fila,Fashion,Blue,Synthetic,75
+Skechers,Walking,Grey,Mesh,60
+Nike,Running,Black,Mesh,120
+Adidas,Lifestyle,Black/Pink,Primeknit,140
+Reebok,Casual,Grey,Synthetic,90
+Converse,Basketball,White,Leather,85
+Puma,Lifestyle,Black,Leather,110
+Vans,Skate,Black,Canvas,50
+New Balance,Running,Blue,Mesh,130
+Asics,Running,Black/Grey,Mesh,180
+Fila,Fashion,White/Pink,Leather,75
+Skechers,Training,Black,Leather,65
+Nike,Skate,Orange,Leather,100
+Nike,Casual,White/Black,Leather,90
+Adidas,Fashion,Cinder,Primeknit,220
+Reebok,Running,Black/White,Mesh/Synthetic,120
+Converse,Casual,Black/White,Canvas,65
+Puma,Running,Grey,Mesh,100
+Vans,Skate,Blue/White,Suede/Canvas,70
+New Balance,Casual,Black/Yellow,Suede/Mesh,80
+Asics,Running,Purple,Mesh/Synthetic,120
+Fila,Fashion,Black/Gold,Leather/Suede,75
+Skechers,Lifestyle,Pink/White,Synthetic,70
+Nike,Running,Black/White,Mesh/Synthetic,150
+Adidas,Running,Grey/White,Primeknit,180
+Reebok,Casual,Navy/White,Leather,75
+Converse,Casual,Red,Canvas,85
+Puma,Casual,Red/White,Suede,65
+Vans,Skate,Black/White,Canvas,55
+New Balance,Running,Blue/Yellow,Mesh,100
+Asics,Running,White/Grey,Mesh/Synthetic,180
+Fila,Fashion,White/Red/Blue,Synthetic,70
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Pink,Primeknit,140
+Reebok,Training,Black,Flexweave,130
+Converse,Casual,White,Canvas,65
+Puma,Basketball,Black,Leather,130
+Vans,Skate,Black/White,Suede/Canvas,65
+New Balance,Lifestyle,Grey,Suede/Mesh,90
+Asics,Running,Black/Pink,Mesh/Synthetic,160
+Fila,Fashion,White/Black,Leather/Synthetic,75
+Skechers,Running,Grey/Pink,Mesh,90
+Nike,Running,Blue,Mesh,180
+Adidas,Basketball,Purple,Synthetic,130
+Reebok,Casual,Navy,Nylon,60
+Converse,Casual,Ivory,Canvas,85
+Puma,Casual,Black/White,Suede,65
+Vans,Skate,Red,Canvas,50
+New Balance,Running,Black,Mesh,90
+Asics,Running,Grey/Black,Mesh,75
+Fila,Fashion,White,Leather/Synthetic,70
+Skechers,Walking,Black,Leather,60
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Black,Primeknit,140
+Reebok,Training,Red,Mesh,130
+Converse,Casual,White,Canvas,65
+Puma,Running,Black,Mesh,90
+Vans,Skate,Purple,Suede/Canvas,65
+New Balance,Running,Grey,Mesh,160
+Asics,Running,Blue,Mesh,85
+Fila,Fashion,White,Synthetic,65
+Skechers,Walking,Black,Mesh,65
+Nike,Running,Grey,Flyknit,150
+Adidas,Running,Black,Primeknit,180
+Reebok,Weightlifting,White/Black,Synthetic,200
+Converse,Basketball,Green,Leather,100
+Puma,Lifestyle,Grey,Leather,90
+Vans,Casual,Checkerboard,Canvas,50
+New Balance,Casual,Burgundy,Suede/Mesh,80
+Asics,Running,Pink,Mesh,150
+Nike,Running,Grey,Leather/Synthetic,170
+Adidas,Lifestyle,Pink,Primeknit,140
+Reebok,Training,Black,Mesh,130
+Converse,Casual,White,Canvas,65
+Puma,Running,Black,Mesh,100
+Vans,Skate,Red,Suede/Canvas,70
+New Balance,Lifestyle,Grey,Suede/Mesh,100
+Asics,Running,Black,Mesh,180
+Fila,Casual,White,Leather,70
+Skechers,Running,Blue,Mesh,90
+Nike,Running,Blue,Flyknit,160
+Adidas,Lifestyle,Cream White,Primeknit,220
+Reebok,Casual,Pink,Nylon,65
+Converse,Casual,Black,Canvas,85
+Puma,Basketball,White,Leather,130
+Vans,Skate,Black/White,Canvas,55
+New Balance,Lifestyle,Grey,Suede/Textile,80
+Asics,Running,Blue,Mesh,70
+Fila,Fashion,Black,Leather,65
+Skechers,Walking,Black,Mesh,60
+Nike,Casual,White,Leather,90
+Nike,Casual,White,Leather,90
+Adidas,Casual,Black,Primeknit,130
+Reebok,Running,White,Mesh,120
+Converse,Casual,Navy,Canvas,75
+Puma,Running,Black,Mesh,90
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Running,Black/Pink,Mesh,130
+Asics,Running,Grey,Mesh,80
+Fila,Fashion,White,Synthetic,75
+Skechers,Walking,Black,Mesh,65
+Nike,Running,Blue,Mesh,120
+Adidas,Casual,Cream White,Primeknit,220
+Reebok,Casual,Pink,Nylon,65
+Converse,Casual,Red,Canvas,85
+Puma,Fashion,Black,Suede,65
+Vans,Skate,Grey,Canvas,50
+New Balance,Running,Grey,Mesh,120
+Asics,Running,Black,Mesh,160
+Fila,Fashion,White,Synthetic,75
+Skechers,Running,Blue,Mesh,90
+Nike,Casual,Green,Leather,120
+Nike,Running,Silver,Synthetic/Leather,170
+Adidas,Casual,White/Black,Leather,80
+Reebok,Running,Grey,Mesh,120
+Converse,Casual,Beige,Canvas,85
+Puma,Running,Black/White,Mesh,90
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Casual,Grey,Suede,80
+Asics,Running,Black,Mesh,160
+Fila,Fashion,Grey/Pink,Synthetic,75
+Skechers,Walking,Black,Mesh,59
+Nike,Casual,White,Leather,90
+Adidas,Running,Blue,Mesh,140
+Reebok,Training,Black/White,Synthetic,130
+Converse,Casual,Navy,Canvas,65
+Puma,Basketball,White,Leather,130
+Vans,Casual,Black/White,Canvas,50
+New Balance,Running,Pink/White,Mesh,100
+Asics,Running,Black,Mesh,120
+Fila,Fashion,White,Synthetic,65
+Skechers,Running,Black/Yellow,Mesh,125
+Nike,Running,Pink,Mesh,120
+Nike,Casual,White/Black,Leather,100
+Adidas,Running,Grey/Pink,Primeknit,140
+Reebok,Crossfit,Black,Mesh,130
+Converse,Casual,White,Canvas,65
+Puma,Running,Black/Yellow,Mesh,120
+Vans,Skate,Black/White,Suede/Canvas,65
+New Balance,Casual,Purple,Suede/Leather,100
+Asics,Running,Blue/Black,Mesh,120
+Fila,Casual,White,Leather,80
+Skechers,Walking,Black/Grey,Mesh,60
+Nike,Casual,White,Leather,90
+Adidas,Casual,Black/White,Leather,85
+Reebok,Casual,Pink,Nylon,60
+Converse,Casual,Grey,Canvas,85
+Puma,Basketball,White,Leather,130
+Vans,Casual,Black/White,Canvas,50
+New Balance,Casual,Navy,Suede/Leather,80
+Asics,Running,Black,Mesh,120
+Fila,Basketball,White/Navy,Leather,95
+Skechers,Walking,Grey,Knit,70
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Grey,Primeknit,140
+Reebok,Training,Black,Mesh,130
+Converse,Casual,Cream,Canvas,85
+Puma,Casual,Black/White,Suede,65
+Vans,Skate,Black/White,Canvas,70
+New Balance,Lifestyle,White/Grey,Suede/Mesh,90
+Asics,Running,Grey,Mesh,80
+Fila,Fashion,Pink,Leather/Synthetic,75
+Skechers,Walking,Black,Mesh,80
+Nike,Running,Pink,Flyknit,160
+Adidas,Running,White,Primeknit,180
+Reebok,Running,Blue,Mesh,120
+Converse,Casual,White,Canvas,65
+Puma,Running,Grey,Mesh,90
+Vans,Skate,Black,Canvas,50
+New Balance,Trail Running,Green,Synthetic/Mesh,135
+Asics,Running,Blue,Mesh,160
+Fila,Fashion,Black/White,Synthetic,75
+Skechers,Running,Black,Mesh,60
+Nike,Casual,White,Leather,90
+Adidas,Running,Pink,Primeknit,130
+Reebok,Training,Black,Mesh,130
+Converse,Casual,White,Canvas,65
+Puma,Basketball,Black,Leather,130
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Casual,Navy,Suede/Mesh,100
+Asics,Running,White,Mesh,180
+Fila,Fashion,Grey,Synthetic,75
+Skechers,Running,Black/Pink,Mesh,95
+Nike,Casual,White,Leather,100
+Adidas,Running,Blue,Primeknit,180
+Reebok,Casual,Black,Nylon,65
+Converse,Casual,Cream,Canvas,85
+Puma,Running,Black/Yellow,Mesh,120
+Vans,Skate,Red,Canvas,50
+New Balance,Running,Black/Yellow,Mesh,110
+Asics,Trail Running,Grey,Mesh,70
+Fila,Casual,White,Leather,70
+Skechers,Walking,Grey,Mesh,80
+Nike,Running,Blue,Flyknit,160
+Nike,Running,Black,Flyknit,160
+Adidas,Casual,White/Gold,Leather/Synthetic,85
+Reebok,Training,Pink,Flexweave/Synthetic,130
+Converse,Casual,Yellow,Canvas,85
+Puma,Running,Grey,Mesh,80
+Vans,Skate,Black/White,Canvas/Suede,65
+New Balance,Lifestyle,Blue,Suede/Mesh,90
+Asics,Running,Black/White,Mesh/Synthetic,80
+Fila,Fashion,Pink,Leather/Synthetic,70
+Skechers,Running,Black,Mesh,60
+Nike,Casual,White,Leather,90
+Adidas,Casual,Black/White,Mesh,130
+Reebok,Running,Black,Mesh,100
+Converse,Basketball,Red,Leather/Synthetic,120
+Puma,Lifestyle,White,Leather/Synthetic,110
+Vans,Skate,Navy,Canvas,50
+New Balance,Running,Pink,Mesh/Synthetic,130
+Asics,Running,Black,Mesh/Synthetic,160
+Fila,Fashion,Black,Leather/Synthetic,65
+Skechers,Walking,Black,Mesh,60
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Pink/White,Primeknit,130
+Reebok,Crossfit,Black,Synthetic,130
+Converse,Casual,Black/White,Canvas,85
+Puma,Running,Blue/White,Mesh,90
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Lifestyle,Green,Suede/Nylon,90
+Asics,Running,Grey,Mesh,160
+Fila,Fashion,White/Blue,Leather/Synthetic,75
+Skechers,Training,Navy,Mesh,65
+Nike,Running,Grey/Pink,Mesh,120
+Adidas,Running,Black/White,Primeknit,180
+Reebok,Casual,Pink/White,Leather,80
+Converse,Casual,Navy,Canvas,65
+Puma,Basketball,Black/White,Leather,130
+Vans,Skate,Red,Canvas,50
+New Balance,Running,Black,Mesh,90
+Asics,Running,Black,Mesh,150
+Fila,Fashion,White/Blue,Leather/Synthetic,75
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Pink/White,Primeknit,130
+Reebok,Crossfit,Black,Synthetic,130
+Converse,Casual,Black/White,Canvas,85
+Puma,Running,Blue/White,Mesh,90
+Vans,Skate,Black/White,Suede/Canvas,70
+New Balance,Lifestyle,Green,Suede/Nylon,90
+Asics,Running,Grey,Mesh,160
+Fila,Fashion,White/Blue,Leather/Synthetic,75
+Skechers,Training,Navy,Mesh,65
+Nike,Running,Grey/Pink,Mesh,120
+Adidas,Running,Black/White,Primeknit,180
+Reebok,Casual,Pink/White,Leather,80
+Converse,Casual,Navy,Canvas,65
+Puma,Basketball,Black/White,Leather,130
+Vans,Skate,Red,Canvas,50
+New Balance,Running,Black,Mesh,90
+Asics,Running,Black,Mesh,150
+Fila,Fashion,White/Blue,Leather/Synthetic,75
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Pink,Primeknit,130
+Reebok,Crossfit,Grey,Knit,130
+Converse,Casual,Black,Canvas,85
+Puma,Running,Grey,Mesh,120
+Vans,Skate,Red/White,Suede/Canvas,70
+New Balance,Lifestyle,Purple,Suede/Mesh,100
+Asics,Running,Black,Mesh,120
+Fila,Fashion,Brown,Leather,75
+Skechers,Running,Navy,Mesh,90
+Nike,Running,Blue,Mesh,120
+Adidas,Casual,White/Black,Leather,85
+Reebok,Casual,Grey,Nylon,65
+Converse,Casual,White,Canvas,65
+Puma,Lifestyle,Black,Mesh/Suede,110
+Vans,Skate,Black/White,Canvas,50
+New Balance,Running,Green/Black,Mesh,130
+Asics,Running,Grey,Mesh,160
+Fila,Fashion,White,Leather,75
+Skechers,Walking,White,Leather,65
+Nike,Running,Silver,Leather/Synthetic,170
+Nike,Lifestyle,White,Leather,90
+Adidas,Lifestyle,Clay Brown,Primeknit,220
+Reebok,Training,Black/Red,Synthetic/Mesh,130
+Converse,Casual,Natural Ivory,Canvas,85
+Puma,Lifestyle,Black/White,Leather/Synthetic,80
+Vans,Skate,Red/White,Suede/Canvas,70
+New Balance,Running,Blue/Orange,Mesh,130
+Asics,Running,White/Black,Mesh,120
+Fila,Fashion,White/Navy,Leather/Synthetic,65
+Skechers,Running,Black/White,Mesh,90
+Nike,Running,Black,Mesh,120
+Adidas,Casual,Cloud White,Leather,80
+Reebok,Casual,Collegiate Navy,Nylon/Suede,65
+Converse,Casual,Black/White,Canvas,65
+Puma,Lifestyle,Black/White,Suede,65
+Vans,Skate,Black/White,Canvas,50
+New Balance,Trail,Black/Red,Mesh/Synthetic,135
+Asics,Running,Black,Mesh,75
+Fila,Fashion,White/Navy/Red,Synthetic/Leather,65
+Nike,Casual,White,Leather,90
+Adidas,Lifestyle,Black,Primeknit,140
+Reebok,Crossfit,Black,Mesh,130
+Converse,Casual,White,Canvas,70
+Puma,Running,Grey,Mesh,80
+Vans,Skate,Black/White,Canvas/Suede,70
+New Balance,Running,White/Green,Mesh,130
+Asics,Running,Blue,Mesh,150
+Fila,Fashion,Pink,Leather,80
+Skechers,Walking,Black,Mesh,65
+Nike,Running,Pink,Flyknit,160
+Adidas,Running,White,Primeknit,180
+Reebok,Casual,Yellow,Leather/Synthetic,90
+Converse,Casual,Red,Canvas,85
+Puma,Lifestyle,Pink,Leather,90
+Vans,Skate,Black/White,Canvas,50
+New Balance,Running,Grey,Mesh,130
+Asics,Running,Black,Mesh,160
+Fila,Fashion,White,Leather,70
+Skechers,Training,Grey,Mesh,55
+Nike,Running,Silver,Leather,170
