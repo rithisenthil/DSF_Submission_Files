@@ -1,306 +1,145 @@
-track,album,explicit,popularity,danceability,energy,tempo,acousticness,is_feature,release_year,duration_min
-wacced out murals,GNX,TRUE,81,0.761,0.501,81.998,0.249,FALSE,2024,5.284866667
-squabble up,GNX,TRUE,81,0.874,0.672,103.921,0.0206,FALSE,2024,2.6332
-luther (with sza),GNX,FALSE,81,0.707,0.575,138.008,0.251,FALSE,2024,2.959966667
-man at the garden,GNX,TRUE,79,0.817,0.348,91.997,0.51,FALSE,2024,3.886216667
-hey now (feat. dody6),GNX,TRUE,79,0.806,0.358,102.011,0.00443,FALSE,2024,3.624633333
-reincarnated,GNX,TRUE,79,0.846,0.779,91.118,0.0534,FALSE,2024,4.595666667
-tv off (feat. lefty gunplay),GNX,TRUE,80,0.855,0.529,100.036,0.0837,FALSE,2024,3.678166667
-"dodger blue (feat. wallie the sensei, siete7x, roddy ricch))",GNX,TRUE,77,0.796,0.536,83.492,0.0552,FALSE,2024,2.187333333
-peekaboo (feat. azchike),GNX,TRUE,77,0.889,0.298,100.042,0.00306,FALSE,2024,2.598616667
-heart pt. 6,GNX,TRUE,77,0.704,0.647,80.998,0.27,FALSE,2024,4.87435
-"gnx (feat. hitta j3, youngthreat, peysoh)",GNX,TRUE,76,0.75,0.556,179.911,0.134,FALSE,2024,3.22565
-gloria (with sza),GNX,TRUE,76,0.719,0.555,140.07,0.22,FALSE,2024,4.792033333
-United In Grief,Mr. Morale & The Big Steppers,TRUE,73,0.529,0.845,85.63,0.244,FALSE,2022,4.256283333
-N95,Mr. Morale & The Big Steppers,TRUE,75,0.79,0.67,139.956,0.377,FALSE,2022,3.265833333
-Worldwide Steppers,Mr. Morale & The Big Steppers,TRUE,59,0.514,0.472,77.215,0.753,FALSE,2022,3.38945
-Die Hard,Mr. Morale & The Big Steppers,TRUE,72,0.775,0.736,100.988,0.319,FALSE,2022,3.983766667
-Father Time (feat. Sampha),Mr. Morale & The Big Steppers,TRUE,69,0.514,0.779,152.869,0.181,FALSE,2022,3.708283333
-Rich - Interlude,Mr. Morale & The Big Steppers,TRUE,56,0.481,0.406,91.589,0.864,FALSE,2022,1.721983333
-Rich Spirit,Mr. Morale & The Big Steppers,TRUE,73,0.852,0.421,95.977,0.428,FALSE,2022,3.371416667
-We Cry Together,Mr. Morale & The Big Steppers,TRUE,61,0.648,0.68,106.89,0.292,FALSE,2022,5.68845
-Purple Hearts,Mr. Morale & The Big Steppers,TRUE,62,0.567,0.824,138.202,0.167,FALSE,2022,5.48825
-Count Me Out,Mr. Morale & The Big Steppers,TRUE,74,0.776,0.431,133.999,0.671,FALSE,2022,4.727366667
-Crown,Mr. Morale & The Big Steppers,TRUE,58,0.355,0.245,173.329,0.801,FALSE,2022,4.404983333
-Silent Hill,Mr. Morale & The Big Steppers,TRUE,66,0.907,0.577,140.07,0.438,FALSE,2022,3.67965
-Savior - Interlude,Mr. Morale & The Big Steppers,TRUE,56,0.618,0.43,117.125,0.807,FALSE,2022,2.54975
-Savior,Mr. Morale & The Big Steppers,TRUE,64,0.605,0.692,124.84,0.495,FALSE,2022,3.7411
-Auntie Diaries,Mr. Morale & The Big Steppers,TRUE,56,0.52,0.375,127.544,0.745,FALSE,2022,4.684483333
-Mr. Morale,Mr. Morale & The Big Steppers,TRUE,62,0.727,0.53,174.025,0.283,FALSE,2022,3.514016667
-Mother I Sober (feat. Beth Gibbons of Portishead),Mr. Morale & The Big Steppers,TRUE,57,0.492,0.369,140.012,0.87,FALSE,2022,6.775466667
-Mirror,Mr. Morale & The Big Steppers,TRUE,62,0.652,0.67,91.933,0.225,FALSE,2022,4.266766667
-The Heart Part 5,Mr. Morale & The Big Steppers,TRUE,59,0.7,0.812,97.405,0.183,FALSE,2022,5.537133333
-Black Panther,Black Panther The Album Music From And Inspired By,TRUE,49,0.619,0.582,90.035,0.625,FALSE,2018,2.176883333
-All The Stars (with SZA),Black Panther The Album Music From And Inspired By,TRUE,85,0.695,0.633,96.782,0.0612,FALSE,2018,3.869766667
-X (with 2 Chainz & Saudi),Black Panther The Album Music From And Inspired By,TRUE,59,0.776,0.471,131.018,0.0203,FALSE,2018,4.4571
-The Ways (with Swae Lee),Black Panther The Album Music From And Inspired By,TRUE,57,0.727,0.719,140.08,0.0622,FALSE,2018,3.98155
-Opps (with Yugen Blakrok),Black Panther The Album Music From And Inspired By,TRUE,50,0.706,0.775,127.929,0.152,FALSE,2018,3.014883333
-I Am,Black Panther The Album Music From And Inspired By,TRUE,52,0.601,0.582,148.776,0.143,FALSE,2018,3.479333333
-Paramedic!,Black Panther The Album Music From And Inspired By,TRUE,59,0.856,0.653,97.017,0.178,FALSE,2018,3.6551
-Bloody Waters (with Anderson .Paak & James Blake),Black Panther The Album Music From And Inspired By,TRUE,48,0.507,0.606,180.593,0.184,FALSE,2018,4.538433333
-"King's Dead (with Kendrick Lamar, Future & James Blake)",Black Panther The Album Music From And Inspired By,TRUE,57,0.566,0.724,81.772,0.00104,FALSE,2018,3.754433333
-Redemption Interlude,Black Panther The Album Music From And Inspired By,TRUE,43,0.55,0.449,121.164,0.656,FALSE,2018,1.4211
-Redemption (with Babes Wodumo),Black Panther The Album Music From And Inspired By,TRUE,48,0.778,0.764,125.062,0.139,FALSE,2018,3.70155
-Seasons (with Sjava & Reason),Black Panther The Album Music From And Inspired By,TRUE,48,0.628,0.556,126.698,0.279,FALSE,2018,4.038216667
-Big Shot (with Travis Scott),Black Panther The Album Music From And Inspired By,TRUE,58,0.855,0.478,130.018,0.00759,FALSE,2018,3.6971
-Pray For Me (with Kendrick Lamar),Black Panther The Album Music From And Inspired By,TRUE,66,0.735,0.677,100.563,0.0756,FALSE,2018,3.524
-BLOOD.,DAMN.,TRUE,61,0.357,0.238,156.907,0.142,FALSE,2017,1.967766667
-DNA.,DAMN.,TRUE,78,0.638,0.523,139.913,0.00454,FALSE,2017,3.0991
-YAH.,DAMN.,TRUE,65,0.67,0.7,69.986,0.576,FALSE,2017,2.67155
-ELEMENT.,DAMN.,TRUE,69,0.748,0.705,189.891,0.204,FALSE,2017,3.478883333
-FEEL.,DAMN.,TRUE,66,0.746,0.798,109.968,0.137,FALSE,2017,3.580433333
-LOYALTY. FEAT. RIHANNA.,DAMN.,TRUE,75,0.658,0.535,110.684,0.0265,FALSE,2017,3.789333333
-PRIDE.,DAMN.,TRUE,82,0.665,0.535,138.842,0.0786,FALSE,2017,4.58755
-HUMBLE.,DAMN.,TRUE,83,0.908,0.621,150.011,0.000282,FALSE,2017,2.95
-LUST.,DAMN.,TRUE,63,0.678,0.562,94.241,0.193,FALSE,2017,5.131333333
-LOVE. FEAT. ZACARI.,DAMN.,TRUE,80,0.8,0.585,126.058,0.264,FALSE,2017,3.556666667
-XXX. FEAT. U2.,DAMN.,TRUE,69,0.568,0.619,170.115,0.138,FALSE,2017,4.236666667
-FEAR.,DAMN.,TRUE,65,0.588,0.479,150.414,0.604,FALSE,2017,7.676216667
-GOD.,DAMN.,TRUE,60,0.706,0.557,132.98,0.0347,FALSE,2017,4.1471
-DUCKWORTH.,DAMN.,TRUE,72,0.552,0.731,174.516,0.0536,FALSE,2017,4.14355
-untitled 01 | 08.19.2014.,untitled unmastered.,TRUE,49,0.57,0.584,102.19,0.321,FALSE,2016,4.1291
-untitled 02 | 06.23.2014.,untitled unmastered.,TRUE,62,0.667,0.508,89.436,0.341,FALSE,2016,4.313766667
-untitled 03 | 05.28.2013.,untitled unmastered.,TRUE,55,0.813,0.549,103.914,0.608,FALSE,2016,2.572433333
-untitled 04 | 08.14.2014.,untitled unmastered.,TRUE,48,0.512,0.128,103.056,0.864,FALSE,2016,1.834433333
-untitled 05 | 09.21.2014.,untitled unmastered.,TRUE,56,0.461,0.62,153.941,0.321,FALSE,2016,5.640433333
-untitled 06 | 06.30.2014.,untitled unmastered.,TRUE,56,0.669,0.541,89.083,0.0992,FALSE,2016,3.466883333
-untitled 07 | 2014 - 2016,untitled unmastered.,TRUE,53,0.567,0.463,126.982,0.732,FALSE,2016,8.26955
-untitled 08 | 09.06.2014.,untitled unmastered.,TRUE,64,0.85,0.524,120.004,0.25,FALSE,2016,3.9251
-Wesley's Theory,To Pimp A Butterfly,TRUE,33,0.509,0.787,114.449,0.359,FALSE,2015,4.789333333
-For Free? - Interlude,To Pimp A Butterfly,TRUE,26,0.526,0.896,129.313,0.588,FALSE,2015,2.18155
-King Kunta,To Pimp A Butterfly,TRUE,33,0.884,0.657,107.059,0.00589,FALSE,2015,3.91155
-Institutionalized,To Pimp A Butterfly,TRUE,27,0.539,0.731,81.114,0.112,FALSE,2015,4.52955
-These Walls,To Pimp A Butterfly,TRUE,30,0.752,0.489,108.005,0.11,FALSE,2015,5.016216667
-u,To Pimp A Butterfly,TRUE,28,0.406,0.798,71.547,0.26,FALSE,2015,4.474883333
-Alright,To Pimp A Butterfly,TRUE,36,0.796,0.766,110.034,0.0742,FALSE,2015,3.65555
-For Sale? - Interlude,To Pimp A Butterfly,TRUE,25,0.301,0.686,79.036,0.442,FALSE,2015,4.862
-Momma,To Pimp A Butterfly,TRUE,24,0.615,0.743,111.914,0.254,FALSE,2015,4.718666667
-Hood Politics,To Pimp A Butterfly,TRUE,25,0.731,0.661,87.912,0.145,FALSE,2015,4.875333333
-How Much A Dollar Cost,To Pimp A Butterfly,TRUE,25,0.624,0.729,87.948,0.415,FALSE,2015,4.362433333
-Complexion (A Zulu Love),To Pimp A Butterfly,TRUE,24,0.665,0.558,89.953,0.566,FALSE,2015,4.389333333
-The Blacker The Berry,To Pimp A Butterfly,TRUE,26,0.553,0.852,176.058,0.00713,FALSE,2015,5.480433333
-You Ain't Gotta Lie (Momma Said),To Pimp A Butterfly,TRUE,25,0.443,0.635,93.742,0.455,FALSE,2015,4.028
-i,To Pimp A Butterfly,TRUE,30,0.541,0.809,120.094,0.708,FALSE,2015,5.600216667
-Mortal Man,To Pimp A Butterfly,TRUE,23,0.567,0.525,86.935,0.665,FALSE,2015,12.11843333
-Sherane a.k.a Master Splinter’s Daughter,"good kid, m.A.A.d city (Deluxe)",TRUE,50,0.504,0.508,82.069,0.486,FALSE,2012,4.560666667
-"Bitch, Don’t Kill My Vibe","good kid, m.A.A.d city (Deluxe)",TRUE,64,0.586,0.698,133.954,0.0151,FALSE,2012,5.178666667
-Backseat Freestyle,"good kid, m.A.A.d city (Deluxe)",TRUE,57,0.547,0.651,77.878,0.000739,FALSE,2012,3.544216667
-The Art of Peer Pressure,"good kid, m.A.A.d city (Deluxe)",TRUE,53,0.555,0.611,94.939,0.285,FALSE,2012,5.408883333
-Money Trees,"good kid, m.A.A.d city (Deluxe)",TRUE,66,0.716,0.531,71.972,0.0709,FALSE,2012,6.448433333
-Poetic Justice,"good kid, m.A.A.d city (Deluxe)",TRUE,60,0.778,0.569,135.958,0.158,FALSE,2012,5.002666667
-good kid,"good kid, m.A.A.d city (Deluxe)",TRUE,53,0.451,0.831,176.173,0.0623,FALSE,2012,3.568666667
-m.A.A.d city,"good kid, m.A.A.d city (Deluxe)",TRUE,64,0.487,0.729,91.066,0.0538,FALSE,2012,5.835333333
-Swimming Pools (Drank) - Extended Version,"good kid, m.A.A.d city (Deluxe)",TRUE,60,0.669,0.485,74.376,0.123,FALSE,2012,5.229766667
-"Sing About Me, I'm Dying Of Thirst","good kid, m.A.A.d city (Deluxe)",TRUE,60,0.654,0.753,110.699,0.303,FALSE,2012,12.05955
-Real,"good kid, m.A.A.d city (Deluxe)",TRUE,53,0.652,0.458,100.049,0.0282,FALSE,2012,7.390216667
-Compton,"good kid, m.A.A.d city (Deluxe)",TRUE,50,0.341,0.907,170.757,0.0815,FALSE,2012,4.134883333
-The Recipe - Bonus Track,"good kid, m.A.A.d city (Deluxe)",TRUE,63,0.764,0.782,131,0.000589,FALSE,2012,5.880883333
-Black Boy Fly - Bonus Track,"good kid, m.A.A.d city (Deluxe)",TRUE,47,0.593,0.731,160.085,0.108,FALSE,2012,4.652433333
-Now Or Never - Bonus Track,"good kid, m.A.A.d city (Deluxe)",FALSE,58,0.535,0.707,100.534,0.264,FALSE,2012,4.270216667
-"Bitch, Don’t Kill My Vibe - Remix","good kid, m.A.A.d city (Deluxe)",TRUE,47,0.633,0.787,133.62,0.0508,FALSE,2012,4.6431
-"Bitch, Don’t Kill My Vibe - International Remix / Explicit Version","good kid, m.A.A.d city (Deluxe)",TRUE,42,0.67,0.812,134.057,0.0109,FALSE,2012,5.096883333
-F*ck Your Ethnicity,Section.80,TRUE,54,0.601,0.883,150.967,0.392,FALSE,2011,3.744516667
-Hol' Up,Section.80,TRUE,62,0.607,0.869,155.983,0.781,FALSE,2011,2.885966667
-A.D.H.D,Section.80,TRUE,71,0.609,0.799,157.74,0.33,FALSE,2011,3.591816667
-No Make-Up (Her Vice) (feat. Colin Munroe),Section.80,TRUE,48,0.535,0.696,91.002,0.541,FALSE,2011,3.932016667
-Tammy's Song (Her Evils),Section.80,TRUE,50,0.477,0.835,97.317,0.924,FALSE,2011,2.6945
-Chapter Six,Section.80,TRUE,63,0.51,0.537,67.9,0.533,FALSE,2011,2.685616667
-Ronald Reagan Era,Section.80,TRUE,54,0.424,0.828,167.469,0.0152,FALSE,2011,3.614983333
-Poe Mans Dreams (His Vice) (feat. GLC),Section.80,TRUE,56,0.736,0.892,88.124,0.619,FALSE,2011,4.364566667
-Chapter Ten,Section.80,TRUE,46,0.515,0.738,135.772,0.0355,FALSE,2011,1.258916667
-Keisha's Song (Her Pain) (feat. Ashtro Bot),Section.80,TRUE,51,0.465,0.854,85.126,0.429,FALSE,2011,3.788183333
-Rigamortus,Section.80,TRUE,60,0.52,0.807,178.012,0.24,FALSE,2011,2.80985
-Kush & Corinthians (feat. BJ The Chicago Kid),Section.80,TRUE,51,0.383,0.731,176.781,0.726,FALSE,2011,5.0778
-Blow My High (Members Only),Section.80,TRUE,59,0.959,0.524,119.933,0.316,FALSE,2011,3.596516667
-Ab-Souls Outro (feat. Ab-Soul),Section.80,TRUE,46,0.471,0.839,115.79,0.116,FALSE,2011,5.83335
-HiiiPower,Section.80,TRUE,64,0.695,0.827,81.024,0.179,FALSE,2011,4.664233333
-Growing Apart (To Get Closer),Overly Dedicated,TRUE,48,0.586,0.533,106.835,0.368,FALSE,2010,3.68325
-Ignorance Is Bliss,Overly Dedicated,TRUE,51,0.644,0.801,82.156,0.511,FALSE,2010,3.508233333
-P&P 1.5,Overly Dedicated,TRUE,51,0.55,0.692,146.453,0.299,FALSE,2010,6.032366667
-Alien Girl (Today W/ Her),Overly Dedicated,TRUE,49,0.626,0.537,95.948,0.502,FALSE,2010,3.99955
-Opposites Attract (Tomorrow W/O Her),Overly Dedicated,TRUE,50,0.608,0.814,192.157,0.657,FALSE,2010,4.531816667
-Michael Jordan,Overly Dedicated,TRUE,44,0.713,0.803,153.987,0.0759,FALSE,2010,5.844966667
-R.O.T.C (Interlude),Overly Dedicated,TRUE,43,0.645,0.779,98.405,0.324,FALSE,2010,2.718416667
-Barbed Wire,Overly Dedicated,TRUE,50,0.613,0.843,102.968,0.0152,FALSE,2010,4.427966667
-Average Joe,Overly Dedicated,TRUE,46,0.74,0.733,91.603,0.243,FALSE,2010,4.267466667
-H.O.C,Overly Dedicated,TRUE,45,0.613,0.591,77.124,0.105,FALSE,2010,5.282916667
-Cut You Off (To Grow Closer),Overly Dedicated,TRUE,46,0.685,0.681,82.982,0.077,FALSE,2010,6.068383333
-She Needs Me (Remix),Overly Dedicated,TRUE,52,0.606,0.835,100.145,0.417,FALSE,2010,3.263166667
-Not Like Us,Not Like Us,TRUE,88,0.898,0.472,101.061,0.0107,FALSE,2024,4.569866667
-meet the grahams,meet the grahams,TRUE,71,0.479,0.802,74.98,0.55,FALSE,2024,6.535633333
-euphoria,euphoria,TRUE,78,0.831,0.643,139.948,0.046,FALSE,2024,6.393983333
-HUMBLE. - SKRILLEX REMIX,HUMBLE. (SKRILLEX REMIX),TRUE,65,0.901,0.934,150.037,0.00794,FALSE,2017,2.613333333
-The Heart Part 4,The Heart Part 4,TRUE,47,0.669,0.434,129.326,0.501,FALSE,2017,4.809233333
-untitled 07 | levitate,untitled 07 | levitate,TRUE,49,0.79,0.47,126.992,0.49,FALSE,2016,2.4411
-Swimming Pools (Drank) - Black Hippy Remix,Swimming Pools (Drank) [Black Hippy Remix],TRUE,35,0.709,0.525,73.912,0.0478,FALSE,2015,5.248216667
-County Building Blues,County Building Blues,TRUE,45,0.499,0.778,105.091,0.0523,FALSE,2015,4.2951
-i,i,TRUE,67,0.755,0.884,121.927,0.0208,FALSE,2014,3.86555
-Two Presidents (feat. Kendrick Lamar),Two Presidents,TRUE,33,0.823,0.529,124.056,0.477,TRUE,2013,3.833966667
-"My People (feat. Jay Rock) (""Bastards of the Party"" Original Soundtrack Version)","My People (feat. Jay Rock) (""Bastards of the Party"" Original Soundtrack Version)",TRUE,37,0.738,0.484,87.922,0.593,TRUE,2011,4.0181
-Like That (feat. Kendrick Lamar),WE DON'T TRUST YOU,TRUE,83,0.814,0.676,162.012,0.00709,TRUE,2024,4.461766667
-Kali Love (feat. Kendrick Lamar),Bompton King,TRUE,31,0.842,0.548,94.008,0.201,TRUE,2023,3.260383333
-Bad Blood (feat. Kendrick Lamar) (Taylor's Version),1989 (Taylor's Version) [Deluxe],FALSE,70,0.604,0.644,170.088,0.0143,TRUE,2023,3.32955
-AMERICA HAS A PROBLEM (feat. Kendrick Lamar),AMERICA HAS A PROBLEM (feat. Kendrick Lamar),TRUE,62,0.784,0.7,126.015,0.0112,TRUE,2023,4.349366667
-"Drones (feat. Kendrick Lamar, Snoop Dogg, Ty Dolla $ign & James Fauntleroy)",DRONES,TRUE,0,0.758,0.619,100.916,0.0366,TRUE,2021,4.422616667
-vent (feat. Kendrick Lamar),The Melodic Blue,TRUE,64,0.896,0.377,113.886,0.0123,TRUE,2021,2.2762
-range brothers (feat. Kendrick Lamar),The Melodic Blue,TRUE,58,0.667,0.582,121.972,0.00466,TRUE,2021,5.278883333
-KDOT FREES (feat. Kendrick Lamar),"Whateva, Vol. 4",TRUE,19,0.725,0.924,172.221,0.678,TRUE,2020,2.093016667
-Look Over Your Shoulder (feat. Kendrick Lamar),Look Over Your Shoulder (feat. Kendrick Lamar),TRUE,0,0.6,0.887,77.896,0.0438,TRUE,2020,4.146833333
-Show Stop (feat. Kendrick Lamar),New Beginnings,TRUE,43,0.751,0.725,129.977,0.0755,TRUE,2020,2.987216667
-Rearview (feat. Kendrick Lamar),Jimmy Lee,FALSE,11,0.738,0.701,93.055,0.054,TRUE,2019,2.472883333
-Hair Down (feat. Kendrick Lamar),Chasing Summer,TRUE,1,0.793,0.489,120.097,0.25,TRUE,2019,3.61555
-Mirrors (Thuggin) (feat. Kendrick Lamar),Mirrors (Thuggin),FALSE,18,0.772,0.704,119.999,0.0512,TRUE,2019,3.333333333
-NILE (feat. Kendrick Lamar),The Lion King: The Gift,FALSE,45,0.484,0.457,83.493,0.738,TRUE,2019,1.786733333
-Under The Sun (with J. Cole & Lute feat. DaBaby) (feat. Kendrick Lamar),Revenge Of The Dreamers III,TRUE,69,0.691,0.64,138.672,0.511,TRUE,2019,3.367333333
-Momma I Hit A Lick (feat. Kendrick Lamar),Rap Or Go To The League,TRUE,45,0.796,0.467,179.974,0.202,TRUE,2019,2.896
-Tints (feat. Kendrick Lamar),Oxnard,TRUE,55,0.805,0.833,109.076,0.0859,TRUE,2018,4.473333333
-Mona Lisa (feat. Kendrick Lamar),Tha Carter V,TRUE,66,0.856,0.694,122.08,0.371,TRUE,2018,5.40315
-Wow Freestyle (feat. Kendrick Lamar),Redemption,TRUE,0,0.782,0.633,150.055,0.0355,TRUE,2018,2.920216667
-WIN (feat. Kendrick Lamar),Redemption,TRUE,57,0.879,0.595,125.994,0.0152,TRUE,2018,3.5871
-Dedication (feat. Kendrick Lamar),Victory Lap,TRUE,53,0.512,0.734,93.995,0.431,TRUE,2018,4.096883333
-Hustla’s Story (feat. Kendrick Lamar),Effected,TRUE,37,0.664,0.834,140.116,0.236,TRUE,2018,4.47285
-Redemption (with Babes Wodumo) (feat. Kendrick Lamar),Black Panther The Album Music From And Inspired By,TRUE,48,0.778,0.764,125.062,0.139,TRUE,2018,3.70155
-Paramedic! (feat. Kendrick Lamar),Black Panther The Album Music From And Inspired By,TRUE,59,0.856,0.653,97.017,0.178,TRUE,2018,3.6551
-I Am (feat. Kendrick Lamar),Black Panther The Album Music From And Inspired By,TRUE,52,0.601,0.582,148.776,0.143,TRUE,2018,3.479333333
-Opps (with Yugen Blakrok) (feat. Kendrick Lamar),Black Panther The Album Music From And Inspired By,TRUE,50,0.706,0.775,127.929,0.152,TRUE,2018,3.014883333
-X (with 2 Chainz & Saudi) (feat. Kendrick Lamar),Black Panther The Album Music From And Inspired By,TRUE,59,0.776,0.471,131.018,0.0203,TRUE,2018,4.4571
-Pray For Me (feat. Kendrick Lamar),The Highlights,TRUE,75,0.732,0.678,100.626,0.0867,TRUE,2021,3.523666667
-American Soul (feat. Kendrick Lamar),Songs Of Experience (Deluxe Edition),FALSE,34,0.58,0.801,130.024,0.0367,TRUE,2017,4.362216667
-Kites (feat. Kendrick Lamar),NO ONE EVER REALLY DIES,TRUE,37,0.571,0.725,200.03,0.104,TRUE,2017,4.848883333
-Don't Don't Do It! (feat. Kendrick Lamar),NO ONE EVER REALLY DIES,TRUE,42,0.799,0.871,77.013,0.12,TRUE,2017,4.2951
-American Dream (feat. Kendrick Lamar),"American Dream (Feat. J. Cole, Kendrick Lamar)",TRUE,0,0.639,0.845,76.973,0.0603,TRUE,2017,4.150666667
-"Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)",Ransom 2,TRUE,48,0.741,0.562,180.068,0.172,TRUE,2017,4.015433333
-The City (feat. Kendrick Lamar),The City (feat. Kendrick Lamar),TRUE,15,0.867,0.496,93.97,0.225,TRUE,2017,3.454683333
-"Cold Summer (feat. Kendrick Lamar, Mac Miller, Kevin Gates & Rell) (feat. Kendrick Lamar, Mac Miller, Kevin Gates & Rell)","Cold Summer (feat. Kendrick Lamar, Mac Miller, Kevin Gates & Rell)",TRUE,19,0.507,0.872,82.824,0.0329,TRUE,2017,4.422483333
-Power (feat. Kendrick Lamar),Laila’s Wisdom,TRUE,33,0.441,0.854,81.309,0.00274,TRUE,2017,5.579766667
-Yeah Right (feat. Kendrick Lamar),Big Fish Theory,TRUE,0,0.669,0.484,117.929,0.0154,TRUE,2017,3.1491
-Doves In The Wind (feat. Kendrick Lamar),Ctrl,TRUE,67,0.693,0.713,137.335,0.343,TRUE,2017,4.434666667
-New Freezer (feat. Kendrick Lamar),The World Is Yours,TRUE,58,0.885,0.698,140.07,0.0399,TRUE,2018,3.19895
-Mask Off (feat. Kendrick Lamar) - Remix,FUTURE,TRUE,59,0.72,0.424,150.01,0.0122,TRUE,2017,4.3071
-Walk On By (feat. Kendrick Lamar),Drunk,TRUE,62,0.825,0.302,94.956,0.204,TRUE,2017,3.318933333
-Goosebumps (feat. Kendrick Lamar),The Hate U Give (Original Motion Picture Soundtrack),TRUE,58,0.849,0.629,130.103,0.0795,TRUE,2018,4.064
-Sidewalks (feat. Kendrick Lamar),Starboy,TRUE,69,0.542,0.72,149.828,0.147,TRUE,2016,3.856
-Conrad Tokyo (feat. Kendrick Lamar & Jack White),We got it from Here... Thank You 4 Your service,TRUE,48,0.676,0.609,95.245,0.602,TRUE,2016,3.5331
-Don't Wanna Know (feat. Kendrick Lamar),Red Pill Blues (Deluxe),FALSE,60,0.783,0.611,100.049,0.343,TRUE,2018,3.571083333
-Really Doe (feat. Kendrick Lamar),Really Doe,FALSE,0,0.692,0.983,75.992,0.0417,TRUE,2016,5.323883333
-"God Is Fair, Sexy Nasty (feat. Kendrick Lamar)",The Divine Feminine,TRUE,61,0.467,0.41,95.931,0.328,TRUE,2016,8.349333333
-Freedom (feat. Kendrick Lamar),Lemonade,FALSE,63,0.437,0.803,84.378,0.0376,TRUE,2016,4.829333333
-The Greatest (feat. Kendrick Lamar),This Is Acting (Deluxe Version),FALSE,64,0.668,0.725,191.944,0.0102,TRUE,2016,3.503766667
-Wat's Wrong (feat. Zacari & Kendrick Lamar),The Sun's Tirade,TRUE,65,0.706,0.688,125.966,0.151,TRUE,2016,5.51305
-"Holy Key (feat. Big Sean, Kendrick Lamar & Betty Wright)",Major Key,TRUE,36,0.413,0.928,83.203,0.106,TRUE,2016,4.69965
-THat Part - Black Hippy Remix (feat. Kendrick Lamar),THat Part (Black Hippy Remix),TRUE,48,0.892,0.548,112.962,0.139,TRUE,2016,4.80875
-Black THougHts (feat. Kendrick Lamar),Blank Face LP,TRUE,33,0.726,0.813,153.998,0.531,TRUE,2016,3.705333333
-Survive (feat. Kendrick Lamar),"Son of a Pimp, Pt. 2",TRUE,18,0.597,0.787,123.814,0.1,TRUE,2016,3.840866667
-The New Cupid (feat. Kendrick Lamar),In My Mind,TRUE,0,0.565,0.808,127.377,0.114,TRUE,2016,5.351333333
-Ain't That Funkin' Kinda Hard on You? (feat. Kendrick Lamar & Ice Cube) - We Ain't Neva Gonna Stop Remix,Ain't That Funkin' Kinda Hard on You? (We Ain't Neva Gonna Stop Remix) [feat. Kendrick Lamar & Ice Cube],TRUE,43,0.635,0.874,89.895,0.156,TRUE,2016,5.16205
-Skyline To (feat. Kendrick Lamar),Blonde,TRUE,67,0.43,0.296,129.048,0.882,TRUE,2016,3.076666667
-No More Parties In LA (feat. Kendrick Lamar),The Life Of Pablo,TRUE,70,0.508,0.921,93.058,0.246,TRUE,2016,6.240216667
-Deep Water (feat. Kendrick Lamar),Compton,TRUE,42,0.705,0.786,101.995,0.0306,TRUE,2015,5.189333333
-Darkside/Gone (feat. Kendrick Lamar),Compton,TRUE,41,0.667,0.782,80.487,0.0125,TRUE,2015,3.898433333
-Genocide (feat. Kendrick Lamar),Compton,TRUE,39,0.585,0.758,86.629,0.000195,TRUE,2015,4.441766667
-Murda (feat. Kendrick Lamar),King Esko,TRUE,0,0.554,0.961,99.033,0.274,TRUE,2015,3.805166667
-On Me - feat. Kendrick Lamar,The Documentary 2,TRUE,0,0.483,0.662,85.798,0.136,TRUE,2015,4.760666667
-Thuggin' (feat. Kendrick Lamar),GlassHouse 2: Life Ain't Nuthin But...,TRUE,15,0.568,0.667,113.364,0.173,TRUE,2015,5.0011
-"LA (feat. Kendrick Lamar, Brandy & James Fauntleroy)",Free TC,TRUE,0,0.354,0.5,75.04,0.315,TRUE,2015,5.122666667
-Easy Bake (feat. Kendrick Lamar & SZA),90059,TRUE,38,0.566,0.586,174.262,0.357,TRUE,2015,4.863533333
-Vice City (feat. Black Hippy) (feat. Kendrick Lamar),90059,TRUE,50,0.844,0.553,114.939,0.156,TRUE,2015,4.729183333
-Heaven Help Dem (feat. Kendrick Lamar),The Lover / Fighter Document LP,FALSE,33,0.323,0.763,175.462,0.0775,TRUE,2015,5.022716667
-Classic Man (feat. Kendrick Lamar) - Remix,Classic Man (feat. Kendrick Lamar) [Remix],TRUE,45,0.851,0.657,94.036,0.119,TRUE,2015,3.917433333
-Money Over Love (feat. Kendrick Lamar),In Another Life,FALSE,0,0.424,0.705,127.315,0.28,TRUE,2015,2.746433333
-Bad Blood (feat. Kendrick Lamar),Bad Blood,FALSE,64,0.654,0.655,170.16,0.0294,TRUE,2015,3.3351
-I'm Ya Dogg (feat. Kendrick Lamar & Rick Ross),BUSH,TRUE,33,0.479,0.609,107.699,0.127,TRUE,2015,4.635766667
-Never Catch Me (feat. Kendrick Lamar),You're Dead!,FALSE,0,0.526,0.936,81.305,0.316,TRUE,2014,3.9081
-Autumn Leaves (feat. Kendrick Lamar),X (Expanded Edition),TRUE,53,0.624,0.6,73.059,0.326,TRUE,2014,4.48
-Fasho (feat. Kendrick Lamar),"Month of Madness, Vol. 7",TRUE,2,0.665,0.638,89.026,0.073,TRUE,2014,4.368
-Pay for It (feat. Kendrick Lamar & Chantal),Pay for It (feat. Kendrick Lamar & Chantal),TRUE,36,0.371,0.743,189.766,0.394,TRUE,2014,4.04555
-Crime (feat. Kendrick Lamar),Where Does This Door Go (Deluxe Edition),TRUE,24,0.572,0.771,94.988,0.0455,TRUE,2013,4.673333333
-That’s Me Right There (feat. Kendrick Lamar),That's Me Right There,FALSE,40,0.68,0.64,129.953,0.0106,TRUE,2014,3.475033333
-Kendrick Lamar's Interlude (feat. Kendrick Lamar),These Days...,TRUE,0,0.435,0.785,121.73,0.152,TRUE,2014,4.99295
-Buy The World (feat. Kendrick Lamar),Buy The World,TRUE,45,0.793,0.631,119.971,0.0406,TRUE,2014,3.778216667
-Babylon (feat. Kendrick Lamar),Z,TRUE,54,0.51,0.71,131.891,0.629,TRUE,2014,3.904733333
-It's On Again (feat. Kendrick Lamar) - From The Amazing Spider-Man 2 Soundtrack,It's On Again (feat. Kendrick Lamar) [From The Amazing Spider-Man 2 Soundtrack],FALSE,56,0.647,0.687,110.14,0.06,TRUE,2014,3.83045
-Backwards (feat. Kendrick Lamar),Divergent: Original Motion Picture Soundtrack,FALSE,35,0.531,0.95,150.071,0.059,TRUE,2014,3.912883333
-"Focus (feat. ProVerb, Latoiya Williams, Kendrick Lamar)",Barmageddon,TRUE,7,0.907,0.641,108.503,0.0135,TRUE,2013,3.603766667
-Power Circle (feat. Rick Ross & Kendrick Lamar),"MMG Presents: Self Made, Vol. 2",TRUE,5,0.586,0.744,159.985,0.16,TRUE,2012,8.613766667
-100 Favors (feat. Kendrick Lamar),100 Favors,TRUE,0,0.505,0.637,73.868,0.225,TRUE,2013,4.135333333
-My Boombox (feat. Kendrick Lamar),Skorcezzi,TRUE,5,0.516,0.867,161.1,0.000175,TRUE,2014,3.860016667
-Rossi Wine (feat. Kendrick Lamar),Hungry and Humble,TRUE,28,0.637,0.778,140.007,0.0303,TRUE,2013,4.211666667
-"Fa Sho (feat. Kendrick Lamar, Jay Rock & Freeway)",In Case You Slept,TRUE,12,0.658,0.636,89.098,0.0832,TRUE,2013,4.3311
-Go Off (feat. Kendrick Lamar),Reek What You Sow,TRUE,0,0.87,0.691,102.307,0.0632,TRUE,2015,2.784216667
-Really Be (Smokin N Drinkin) (feat. Kendrick Lamar),My Krazy Life,TRUE,44,0.766,0.542,146.026,0.00476,TRUE,2014,5.1813
-Radioactive (feat. Kendrick Lamar),Radioactive,TRUE,58,0.483,0.894,139.858,0.0407,TRUE,2014,4.600666667
-Love Game (feat. Kendrick Lamar),The Marshall Mathers LP2 (Deluxe),TRUE,0,0.779,0.943,105.441,0.364,TRUE,2013,4.949216667
-Jealous (feat. Kendrick Lamar),Trappin Ain't Dead,TRUE,0,0.771,0.371,137.861,0.116,TRUE,2013,4.33065
-Nosetalgia (feat. Kendrick Lamar),My Name Is My Name,TRUE,0,0.574,0.795,80.975,0.0257,TRUE,2013,3.600883333
-Give It 2 U - Remix (feat. Kendrick Lamar),Blurred Lines (Deluxe),TRUE,26,0.692,0.83,127.05,0.0924,TRUE,2013,4.2911
-Control (feat. Kendrick Lamar),King Kendrick Diss,FALSE,0,0.508,0.927,84.976,0.207,TRUE,2013,7.502716667
-Triangle Ship (feat. Kendrick Lamar),3ChordFold,FALSE,18,0.357,0.47,171.347,0.0516,TRUE,2013,5.67495
-Forbidden Fruit (feat. Kendrick Lamar),Born Sinner (Deluxe Version),TRUE,62,0.84,0.504,110.027,0.546,TRUE,2013,4.477766667
-Fragile (feat. Kendrick Lamar),Something Else,TRUE,54,0.715,0.468,194.902,0.0994,TRUE,2013,3.93955
-Stay Ready (What A Life) (feat. Kendrick Lamar),Sail Out,TRUE,75,0.347,0.493,82.887,0.455,TRUE,2013,6.379333333
-Flower Child (feat. Kendrick Lamar),"The Boombox Diaries, Vol. 1 - EP",TRUE,0,0.784,0.512,95.024,0.763,TRUE,2012,3.374116667
-Collard Greens (feat. Kendrick Lamar),Oxymoron (Deluxe),TRUE,74,0.825,0.573,153.956,0.0255,TRUE,2014,4.999333333
-Better Off (feat. Kendrick Lamar),Avalanche,FALSE,29,0.565,0.432,176.157,0.672,TRUE,2013,4.411333333
-UOENO (feat. Kendrick Lamar),Uoeno,TRUE,48,0.799,0.547,124.584,0.516,TRUE,2019,5.70475
-Street Dreamin (feat. Kendrick Lamar),Street Dreamin,TRUE,0,0.55,0.883,186.146,0.0486,TRUE,2013,3.49555
-Push Thru (feat. Kendrick Lamar),Push Thru (feat. Kendrick Lamar and Curren$y),TRUE,25,0.388,0.739,74.232,0.0737,TRUE,2012,5.013333333
-"Memories Back Then (feat. B.o.B, Kendrick Lamar & Kris Stephens)","Memories Back Then (feat. B.o.B, Kendrick Lamar & Kris Stephens)",TRUE,48,0.796,0.504,130.01,0.115,TRUE,2013,5.072
-Solo Dolo Part II (feat. Kendrick Lamar),Indicud,TRUE,42,0.731,0.895,105.192,0.149,TRUE,2013,3.574
-We Up (feat. Kendrick Lamar),We Up,TRUE,47,0.746,0.756,103.08,0.533,TRUE,2013,3.312883333
-How Many Drinks? (feat. Kendrick Lamar),How Many Drinks? (feat. Kendrick Lamar),TRUE,47,0.425,0.6,88.767,0.0033,TRUE,2013,4.502666667
-YOLO (feat. Kendrick Lamar),The Wack Album,FALSE,24,0.611,0.871,160.032,0.0284,TRUE,2013,3.077333333
-"1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.)",LONG.LIVE.A$AP (Deluxe Version),TRUE,62,0.489,0.878,81.497,0.351,TRUE,2013,6.202883333
-Let Us Move On (feat. Kendrick Lamar),Girl Who Got Away (Expanded Edition),FALSE,32,0.597,0.69,87.051,0.00482,TRUE,2013,4.172666667
-See No Evil (feat. Kendrick Lamar),Jesus Piece,TRUE,0,0.484,0.456,157.21,0.551,TRUE,2012,4.738433333
-Cross-Trainers (feat. Kendrick Lamar & Blu),The Div / GMB,TRUE,0,0.526,0.927,89.787,0.00521,TRUE,2015,4.404883333
-"F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",LONG.LIVE.A$AP (Deluxe Version),TRUE,2,0.869,0.687,96.006,0.0208,TRUE,2013,3.896433333
-Cryin Wolf (feat. Kendrick Lamar),Til the Casket Drops,FALSE,27,0.793,0.578,116.962,0.128,TRUE,2012,4.020216667
-B-Boyz (feat. Kendrick Lamar),B-Boyz,TRUE,11,0.579,0.897,143.124,0.0176,TRUE,2012,5.228666667
-They Ready (feat. Kendrick Lamar),Kiss The Ring (Deluxe),TRUE,0,0.601,0.887,151.893,0.101,TRUE,2012,3.23755
-I'm Ghost (feat. Kendrick Lamar),I'm Ghost,FALSE,5,0.53,0.797,96.066,0.0502,TRUE,2012,2.76375
-Catch A Fade (feat. Kendrick Lamar),The Block Brochure: Jumbo Pack,TRUE,0,0.584,0.677,81.992,0.114,TRUE,2015,4.14265
-Live in My Bed (feat. Kendrick Lamar),Live in My Bed (feat. Kendrick Lamar),TRUE,2,0.583,0.867,128.062,0.162,TRUE,2013,4.941066667
-Star Life (feat. Kendrick Lamar),Star Life (feat. Kendrick Lamar),FALSE,21,0.789,0.933,122.152,0.0451,TRUE,2012,3.484316667
-You Don't Like (feat. Kendrick Lamar),Mama's Only Sun,FALSE,41,0.648,0.864,150.906,0.304,TRUE,2012,3.4801
-"My Way (feat. Common, Lloyd & Kendrick Lamar)",Quality Street Music,TRUE,0,0.715,0.439,82.072,0.132,TRUE,2012,3.639766667
-A1 Everything (feat. Kendrick Lamar),Dreamchasers 2,TRUE,36,0.511,0.597,85.602,0.00607,TRUE,2012,2.89
-I Remember (feat. Kendrick Lamar),Alive & Living,TRUE,0,0.713,0.859,167.132,0.0877,TRUE,2012,4.838316667
-Black Lip Bastard (Rmx) (feat. Black Hippy) (feat. Kendrick Lamar),Control System,TRUE,35,0.513,0.902,76.415,0.155,TRUE,2012,5.81305
-Illuminate (feat. Kendrick Lamar),Control System,TRUE,51,0.719,0.855,132.83,0.384,TRUE,2012,5.112166667
-Fight the Feeling (feat. Kendrick Lamar),Macadelic (Remastered Edition),TRUE,1,0.569,0.881,148.067,0.111,TRUE,2012,5.029483333
-His Pain (feat. Kendrick Lamar),Pineapple Now-Laters,FALSE,19,0.447,0.422,165.695,0.872,TRUE,2012,5.483333333
-I'm On 2.0 (feat. Kendrick Lamar),Black Print,TRUE,34,0.529,0.826,138.631,0.13,TRUE,2012,5.01755
-Sail - Tde Remix (feat. Kendrick Lamar & Ab Soul),Megalithic Symphony Deluxe,FALSE,0,0.609,0.669,89.99,0.0238,TRUE,2011,4.012983333
-College Girls (feat. Kendrick Lamar),"Hip Hop Had a Dream: The World Wide Tape, Vol. 2",TRUE,11,0.788,0.787,93.965,0.246,TRUE,2012,4.562283333
-Give Me Some Of You (feat. Kendrick Lamar),"Here, My Dear",TRUE,26,0.636,0.724,190.355,0.0697,TRUE,2011,2.58
-I Had No Idea (feat. Kendrick Lamar),"Here, My Dear",TRUE,18,0.472,0.496,150.365,0.215,TRUE,2011,3.719333333
-Ridin' Roun Town (Remix) (feat. Kendrick Lamar),Sleeping in Class,FALSE,22,0.559,0.845,142,0.000692,TRUE,2011,6.76245
-Do It Again (feat. Kendrick Lamar),Locke High 2,TRUE,24,0.854,0.587,126.031,0.122,TRUE,2011,4.187316667
-Reasons For Seasons (feat. Kendrick Lamar),Locke High 2,TRUE,14,0.486,0.648,85.752,0.0905,TRUE,2011,3.454866667
-Buried Alive Interlude (feat. Kendrick Lamar),Take Care (Deluxe),TRUE,56,0.711,0.543,102.01,0.412,TRUE,2011,2.516
-Over and Over (feat. Kendrick Lamar & Sophie Stern),Island in the Sun,TRUE,0,0.694,0.778,150.026,0.355,TRUE,2011,5.502933333
-"Enjoy (West Coastin) (feat. Warren G, Murs & Kendrick Lamar)",The Wonder Years,TRUE,29,0.801,0.728,88.704,0.0347,TRUE,2011,3.3898
-How Far We Go (Uptown 81) (feat. Kendrick Lamar),The Hustler's Catalog,TRUE,0,0.531,0.974,82.892,0.227,TRUE,2011,3.468666667
-Ball Game (feat. Kendrick Lamar),Rolling Stoned,TRUE,0,0.457,0.942,80.248,0.44,TRUE,2011,2.4145
-I Love Music (feat. Kendrick Lamar),All 6's And 7's,TRUE,26,0.652,0.874,91.639,0.217,TRUE,2011,3.780216667
-Textbook Stuff (feat. Kendrick Lamar),Zero Heroes,TRUE,0,0.531,0.855,173.872,0.0635,TRUE,2022,4.1238
-RapperPooh-a-lude (feat. Kendrick Lamar),FatBoyFresh Vol. 1: For Members Only,TRUE,19,0.742,0.544,91.042,0.0673,TRUE,2011,4.264916667
-Up Against The Wall (feat. Roc Marci & Kendrick Lamar),Movies on Demand 2,FALSE,41,0.513,0.915,80.815,0.318,TRUE,2011,4.58775
-"Say Wassup (feat. Sc Hoolboy Q, Ab Soul & Kendrick Lamar)",Follow Me Home,TRUE,45,0.757,0.771,77.024,0.047,TRUE,2011,4.3891
-Hood Gone Love It (feat. Kendrick Lamar),Follow Me Home,TRUE,66,0.636,0.856,91.81,0.0879,TRUE,2011,4.0911
-Constipation (feat. Kendrick Lamar),Longterm Mentality,TRUE,27,0.7,0.884,110.066,0.17,TRUE,2011,3.44895
-Moscato (feat. Kendrick Lamar),Longterm Mentality,TRUE,34,0.773,0.644,124.483,0.245,TRUE,2011,4.662366667
-Hell Yeah (feat. Kendrick Lamar),Longterm Mentality,TRUE,21,0.555,0.69,149.874,0.00477,TRUE,2011,4.2832
-Rolling Stone (feat. Kendrick Lamar),Setbacks,TRUE,42,0.916,0.472,117.066,0.0188,TRUE,2011,3.609483333
-Birds & The Beez (feat. Kendrick Lamar),Setbacks,TRUE,46,0.554,0.619,95.919,0.12,TRUE,2011,4.333766667
-LigHt Years AHead (Sky HigH) (feat. Kendrick Lamar),Setbacks,TRUE,34,0.767,0.631,163.024,0.000602,TRUE,2011,4.196383333
-The City (feat. Kendrick Lamar),The R.E.D. Album,TRUE,42,0.574,0.787,144.474,0.176,TRUE,2011,5.690883333
-El Campo Freestyle (feat. Kendrick Lamar),Tae Beast Tape 1,TRUE,1,0.604,0.947,80.342,0.427,TRUE,2010,2.6327
-My People (feat. Kendrick Lamar),Bastards Of The Party (Original Motion Picture Soundtrack),TRUE,0,0.647,0.495,87.426,0.518,TRUE,2011,4.01555
-Jay Rock feat. Kendrick Lamar & Major James,From Hood Tales to the Cover of XXL,TRUE,0,0.627,0.647,88.028,0.513,TRUE,2010,3.198216667
-"Nothing Less (feat. Ab Soul, Jay Rock & Kendrick Lamar)",Delightful Bars: Apple Turnover Version,TRUE,0,0.645,0.803,88.625,0.579,TRUE,2009,4.756883333
-Colors (feat. Kendrick Lamar),We Run L.A.,TRUE,18,0.556,0.814,158.419,0.0387,TRUE,2010,3.3097
-The cypha (feat. Kendrick Lamar),Face of L.A.,FALSE,11,0.564,0.638,86.78,0.203,TRUE,2011,8.82155
-The Hillbillies (feat. Kendrick Lamar),The Hillbillies,TRUE,63,0.798,0.618,150.031,0.0176,TRUE,2023,3.413333333
-family ties (feat. Kendrick Lamar),The Melodic Blue,TRUE,66,0.711,0.611,134.14,0.00575,TRUE,2021,4.20115
-The Mantra (feat. Pharrell & Kendrick Lamar),Creed II: The Album,TRUE,35,0.703,0.706,154.985,0.268,TRUE,2018,4.2064
+"Sex","BodyWeight","HeartWeight"
+"female","Quantity[2, ""Kilograms""]","Quantity[7, ""Grams""]"
+"female","Quantity[2, ""Kilograms""]","Quantity[7.4, ""Grams""]"
+"female","Quantity[2, ""Kilograms""]","Quantity[9.5, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[7.2, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[7.3, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[7.6, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[8.1, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[8.2, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[8.3, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[8.5, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[8.7, ""Grams""]"
+"female","Quantity[2.1, ""Kilograms""]","Quantity[9.8, ""Grams""]"
+"female","Quantity[2.2, ""Kilograms""]","Quantity[7.1, ""Grams""]"
+"female","Quantity[2.2, ""Kilograms""]","Quantity[8.7, ""Grams""]"
+"female","Quantity[2.2, ""Kilograms""]","Quantity[9.1, ""Grams""]"
+"female","Quantity[2.2, ""Kilograms""]","Quantity[9.7, ""Grams""]"
+"female","Quantity[2.2, ""Kilograms""]","Quantity[10.9, ""Grams""]"
+"female","Quantity[2.2, ""Kilograms""]","Quantity[11, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[7.3, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[7.9, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[8.4, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[9, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[9, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[9.5, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[9.6, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[9.7, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[10.1, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[10.1, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[10.6, ""Grams""]"
+"female","Quantity[2.3, ""Kilograms""]","Quantity[11.2, ""Grams""]"
+"female","Quantity[2.4, ""Kilograms""]","Quantity[6.3, ""Grams""]"
+"female","Quantity[2.4, ""Kilograms""]","Quantity[8.7, ""Grams""]"
+"female","Quantity[2.4, ""Kilograms""]","Quantity[8.8, ""Grams""]"
+"female","Quantity[2.4, ""Kilograms""]","Quantity[10.2, ""Grams""]"
+"female","Quantity[2.5, ""Kilograms""]","Quantity[9, ""Grams""]"
+"female","Quantity[2.5, ""Kilograms""]","Quantity[10.9, ""Grams""]"
+"female","Quantity[2.6, ""Kilograms""]","Quantity[8.7, ""Grams""]"
+"female","Quantity[2.6, ""Kilograms""]","Quantity[10.1, ""Grams""]"
+"female","Quantity[2.6, ""Kilograms""]","Quantity[10.1, ""Grams""]"
+"female","Quantity[2.7, ""Kilograms""]","Quantity[8.5, ""Grams""]"
+"female","Quantity[2.7, ""Kilograms""]","Quantity[10.2, ""Grams""]"
+"female","Quantity[2.7, ""Kilograms""]","Quantity[10.8, ""Grams""]"
+"female","Quantity[2.9, ""Kilograms""]","Quantity[9.9, ""Grams""]"
+"female","Quantity[2.9, ""Kilograms""]","Quantity[10.1, ""Grams""]"
+"female","Quantity[2.9, ""Kilograms""]","Quantity[10.1, ""Grams""]"
+"female","Quantity[3, ""Kilograms""]","Quantity[10.6, ""Grams""]"
+"female","Quantity[3, ""Kilograms""]","Quantity[13, ""Grams""]"
+"male","Quantity[2, ""Kilograms""]","Quantity[6.5, ""Grams""]"
+"male","Quantity[2, ""Kilograms""]","Quantity[6.5, ""Grams""]"
+"male","Quantity[2.1, ""Kilograms""]","Quantity[10.1, ""Grams""]"
+"male","Quantity[2.2, ""Kilograms""]","Quantity[7.2, ""Grams""]"
+"male","Quantity[2.2, ""Kilograms""]","Quantity[7.6, ""Grams""]"
+"male","Quantity[2.2, ""Kilograms""]","Quantity[7.9, ""Grams""]"
+"male","Quantity[2.2, ""Kilograms""]","Quantity[8.5, ""Grams""]"
+"male","Quantity[2.2, ""Kilograms""]","Quantity[9.1, ""Grams""]"
+"male","Quantity[2.2, ""Kilograms""]","Quantity[9.6, ""Grams""]"
+"male","Quantity[2.2, ""Kilograms""]","Quantity[9.6, ""Grams""]"
+"male","Quantity[2.2, ""Kilograms""]","Quantity[10.7, ""Grams""]"
+"male","Quantity[2.3, ""Kilograms""]","Quantity[9.6, ""Grams""]"
+"male","Quantity[2.4, ""Kilograms""]","Quantity[7.3, ""Grams""]"
+"male","Quantity[2.4, ""Kilograms""]","Quantity[7.9, ""Grams""]"
+"male","Quantity[2.4, ""Kilograms""]","Quantity[7.9, ""Grams""]"
+"male","Quantity[2.4, ""Kilograms""]","Quantity[9.1, ""Grams""]"
+"male","Quantity[2.4, ""Kilograms""]","Quantity[9.3, ""Grams""]"
+"male","Quantity[2.5, ""Kilograms""]","Quantity[7.9, ""Grams""]"
+"male","Quantity[2.5, ""Kilograms""]","Quantity[8.6, ""Grams""]"
+"male","Quantity[2.5, ""Kilograms""]","Quantity[8.8, ""Grams""]"
+"male","Quantity[2.5, ""Kilograms""]","Quantity[8.8, ""Grams""]"
+"male","Quantity[2.5, ""Kilograms""]","Quantity[9.3, ""Grams""]"
+"male","Quantity[2.5, ""Kilograms""]","Quantity[11, ""Grams""]"
+"male","Quantity[2.5, ""Kilograms""]","Quantity[12.7, ""Grams""]"
+"male","Quantity[2.5, ""Kilograms""]","Quantity[12.7, ""Grams""]"
+"male","Quantity[2.6, ""Kilograms""]","Quantity[7.7, ""Grams""]"
+"male","Quantity[2.6, ""Kilograms""]","Quantity[8.3, ""Grams""]"
+"male","Quantity[2.6, ""Kilograms""]","Quantity[9.4, ""Grams""]"
+"male","Quantity[2.6, ""Kilograms""]","Quantity[9.4, ""Grams""]"
+"male","Quantity[2.6, ""Kilograms""]","Quantity[10.5, ""Grams""]"
+"male","Quantity[2.6, ""Kilograms""]","Quantity[11.5, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[8, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[9, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[9.6, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[9.6, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[9.8, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[10.4, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[11.1, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[12, ""Grams""]"
+"male","Quantity[2.7, ""Kilograms""]","Quantity[12.5, ""Grams""]"
+"male","Quantity[2.8, ""Kilograms""]","Quantity[9.1, ""Grams""]"
+"male","Quantity[2.8, ""Kilograms""]","Quantity[10, ""Grams""]"
+"male","Quantity[2.8, ""Kilograms""]","Quantity[10.2, ""Grams""]"
+"male","Quantity[2.8, ""Kilograms""]","Quantity[11.4, ""Grams""]"
+"male","Quantity[2.8, ""Kilograms""]","Quantity[12, ""Grams""]"
+"male","Quantity[2.8, ""Kilograms""]","Quantity[13.3, ""Grams""]"
+"male","Quantity[2.8, ""Kilograms""]","Quantity[13.5, ""Grams""]"
+"male","Quantity[2.9, ""Kilograms""]","Quantity[9.4, ""Grams""]"
+"male","Quantity[2.9, ""Kilograms""]","Quantity[10.1, ""Grams""]"
+"male","Quantity[2.9, ""Kilograms""]","Quantity[10.6, ""Grams""]"
+"male","Quantity[2.9, ""Kilograms""]","Quantity[11.3, ""Grams""]"
+"male","Quantity[2.9, ""Kilograms""]","Quantity[11.8, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[10, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[10.4, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[10.6, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[11.6, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[12.2, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[12.4, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[12.7, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[13.3, ""Grams""]"
+"male","Quantity[3, ""Kilograms""]","Quantity[13.8, ""Grams""]"
+"male","Quantity[3.1, ""Kilograms""]","Quantity[9.9, ""Grams""]"
+"male","Quantity[3.1, ""Kilograms""]","Quantity[11.5, ""Grams""]"
+"male","Quantity[3.1, ""Kilograms""]","Quantity[12.1, ""Grams""]"
+"male","Quantity[3.1, ""Kilograms""]","Quantity[12.5, ""Grams""]"
+"male","Quantity[3.1, ""Kilograms""]","Quantity[13, ""Grams""]"
+"male","Quantity[3.1, ""Kilograms""]","Quantity[14.3, ""Grams""]"
+"male","Quantity[3.2, ""Kilograms""]","Quantity[11.6, ""Grams""]"
+"male","Quantity[3.2, ""Kilograms""]","Quantity[11.9, ""Grams""]"
+"male","Quantity[3.2, ""Kilograms""]","Quantity[12.3, ""Grams""]"
+"male","Quantity[3.2, ""Kilograms""]","Quantity[13, ""Grams""]"
+"male","Quantity[3.2, ""Kilograms""]","Quantity[13.5, ""Grams""]"
+"male","Quantity[3.2, ""Kilograms""]","Quantity[13.6, ""Grams""]"
+"male","Quantity[3.3, ""Kilograms""]","Quantity[11.5, ""Grams""]"
+"male","Quantity[3.3, ""Kilograms""]","Quantity[12, ""Grams""]"
+"male","Quantity[3.3, ""Kilograms""]","Quantity[14.1, ""Grams""]"
+"male","Quantity[3.3, ""Kilograms""]","Quantity[14.9, ""Grams""]"
+"male","Quantity[3.3, ""Kilograms""]","Quantity[15.4, ""Grams""]"
+"male","Quantity[3.4, ""Kilograms""]","Quantity[11.2, ""Grams""]"
+"male","Quantity[3.4, ""Kilograms""]","Quantity[12.2, ""Grams""]"
+"male","Quantity[3.4, ""Kilograms""]","Quantity[12.4, ""Grams""]"
+"male","Quantity[3.4, ""Kilograms""]","Quantity[12.8, ""Grams""]"
+"male","Quantity[3.4, ""Kilograms""]","Quantity[14.4, ""Grams""]"
+"male","Quantity[3.5, ""Kilograms""]","Quantity[11.7, ""Grams""]"
+"male","Quantity[3.5, ""Kilograms""]","Quantity[12.9, ""Grams""]"
+"male","Quantity[3.5, ""Kilograms""]","Quantity[15.6, ""Grams""]"
+"male","Quantity[3.5, ""Kilograms""]","Quantity[15.7, ""Grams""]"
+"male","Quantity[3.5, ""Kilograms""]","Quantity[17.2, ""Grams""]"
+"male","Quantity[3.6, ""Kilograms""]","Quantity[11.8, ""Grams""]"
+"male","Quantity[3.6, ""Kilograms""]","Quantity[13.3, ""Grams""]"
+"male","Quantity[3.6, ""Kilograms""]","Quantity[14.8, ""Grams""]"
+"male","Quantity[3.6, ""Kilograms""]","Quantity[15, ""Grams""]"
+"male","Quantity[3.7, ""Kilograms""]","Quantity[11, ""Grams""]"
+"male","Quantity[3.8, ""Kilograms""]","Quantity[14.8, ""Grams""]"
+"male","Quantity[3.8, ""Kilograms""]","Quantity[16.8, ""Grams""]"
+"male","Quantity[3.9, ""Kilograms""]","Quantity[14.4, ""Grams""]"
+"male","Quantity[3.9, ""Kilograms""]","Quantity[20.5, ""Grams""]"
